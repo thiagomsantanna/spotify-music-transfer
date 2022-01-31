@@ -1,0 +1,7532 @@
+[
+  {
+    "endTime" : "2021-11-07 04:08",
+    "artistName" : "Kanye West",
+    "trackName" : "Believe What I Say",
+    "msPlayed" : 242400
+  },
+  {
+    "endTime" : "2021-11-07 04:11",
+    "artistName" : "Kanye West",
+    "trackName" : "24",
+    "msPlayed" : 197898
+  },
+  {
+    "endTime" : "2021-11-07 05:42",
+    "artistName" : "Kanye West",
+    "trackName" : "Remote Control",
+    "msPlayed" : 3499
+  },
+  {
+    "endTime" : "2021-11-07 05:45",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 149610
+  },
+  {
+    "endTime" : "2021-11-07 05:49",
+    "artistName" : "Tyler, The Creator",
+    "trackName" : "LEMONHEAD (feat. 42 Dugg)",
+    "msPlayed" : 18810
+  },
+  {
+    "endTime" : "2021-11-07 05:49",
+    "artistName" : "Travis Scott",
+    "trackName" : "MAFIA",
+    "msPlayed" : 240000
+  },
+  {
+    "endTime" : "2021-11-07 05:52",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 149610
+  },
+  {
+    "endTime" : "2021-11-07 08:33",
+    "artistName" : "Travis Scott",
+    "trackName" : "MAFIA",
+    "msPlayed" : 130159
+  },
+  {
+    "endTime" : "2021-11-07 16:57",
+    "artistName" : "Imagine Dragons",
+    "trackName" : "Enemy (with JID) - from the series Arcane League of Legends",
+    "msPlayed" : 8610
+  },
+  {
+    "endTime" : "2021-11-07 16:57",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 6420
+  },
+  {
+    "endTime" : "2021-11-07 16:57",
+    "artistName" : "Travis Scott",
+    "trackName" : "MAFIA",
+    "msPlayed" : 17470
+  },
+  {
+    "endTime" : "2021-11-07 17:00",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 149610
+  },
+  {
+    "endTime" : "2021-11-07 17:02",
+    "artistName" : "Imagine Dragons",
+    "trackName" : "Enemy (with JID) - from the series Arcane League of Legends",
+    "msPlayed" : 173381
+  },
+  {
+    "endTime" : "2021-11-07 17:05",
+    "artistName" : "Imagine Dragons",
+    "trackName" : "Lonely",
+    "msPlayed" : 159851
+  },
+  {
+    "endTime" : "2021-11-07 17:06",
+    "artistName" : "Twenty One Pilots",
+    "trackName" : "Redecorate",
+    "msPlayed" : 930
+  },
+  {
+    "endTime" : "2021-11-07 17:06",
+    "artistName" : "Oh The Larceny",
+    "trackName" : "Another Level",
+    "msPlayed" : 45348
+  },
+  {
+    "endTime" : "2021-11-07 17:07",
+    "artistName" : "DJ Snake",
+    "trackName" : "Run It (feat. Rick Ross & Rich Brian)",
+    "msPlayed" : 62960
+  },
+  {
+    "endTime" : "2021-11-07 20:51",
+    "artistName" : "Teto",
+    "trackName" : "Mustang Preto",
+    "msPlayed" : 194570
+  },
+  {
+    "endTime" : "2021-11-07 20:56",
+    "artistName" : "Travis Scott",
+    "trackName" : "MAFIA",
+    "msPlayed" : 240000
+  },
+  {
+    "endTime" : "2021-11-07 20:58",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 149610
+  },
+  {
+    "endTime" : "2021-11-07 21:01",
+    "artistName" : "LISA",
+    "trackName" : "MONEY",
+    "msPlayed" : 168227
+  },
+  {
+    "endTime" : "2021-11-07 21:05",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "SUV",
+    "msPlayed" : 240746
+  },
+  {
+    "endTime" : "2021-11-07 21:08",
+    "artistName" : "Slipknot",
+    "trackName" : "Before I Forget",
+    "msPlayed" : 158035
+  },
+  {
+    "endTime" : "2021-11-07 21:11",
+    "artistName" : "Destroy Boys",
+    "trackName" : "Crybaby",
+    "msPlayed" : 190927
+  },
+  {
+    "endTime" : "2021-11-07 21:16",
+    "artistName" : "Nirvana",
+    "trackName" : "Smells Like Teen Spirit",
+    "msPlayed" : 301920
+  },
+  {
+    "endTime" : "2021-11-07 21:19",
+    "artistName" : "A$AP Ferg",
+    "trackName" : "Plain Jane",
+    "msPlayed" : 173600
+  },
+  {
+    "endTime" : "2021-11-07 21:24",
+    "artistName" : "Mac Miller",
+    "trackName" : "What's the Use?",
+    "msPlayed" : 288640
+  },
+  {
+    "endTime" : "2021-11-07 21:27",
+    "artistName" : "SD9",
+    "trackName" : "40°.40, Pt. I",
+    "msPlayed" : 196000
+  },
+  {
+    "endTime" : "2021-11-07 21:31",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Foda",
+    "msPlayed" : 212320
+  },
+  {
+    "endTime" : "2021-11-07 21:35",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Flo Jo",
+    "msPlayed" : 234032
+  },
+  {
+    "endTime" : "2021-11-07 21:38",
+    "artistName" : "Dreamville",
+    "trackName" : "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
+    "msPlayed" : 169146
+  },
+  {
+    "endTime" : "2021-11-07 21:40",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Amarrou",
+    "msPlayed" : 83504
+  },
+  {
+    "endTime" : "2021-11-07 21:58",
+    "artistName" : "Maxo Kream",
+    "trackName" : "GREENER KNOTS",
+    "msPlayed" : 2160
+  },
+  {
+    "endTime" : "2021-11-07 21:58",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Lui Lui",
+    "msPlayed" : 274550
+  },
+  {
+    "endTime" : "2021-11-07 22:03",
+    "artistName" : "Anderson Freire",
+    "trackName" : "Raridade",
+    "msPlayed" : 297726
+  },
+  {
+    "endTime" : "2021-11-07 22:06",
+    "artistName" : "Teezo Touchdown",
+    "trackName" : "I'm Just A Fan",
+    "msPlayed" : 250
+  },
+  {
+    "endTime" : "2021-11-07 22:06",
+    "artistName" : "MOB79",
+    "trackName" : "Seguir Só",
+    "msPlayed" : 1280
+  },
+  {
+    "endTime" : "2021-11-07 22:06",
+    "artistName" : "Tom Morello",
+    "trackName" : "Let’s Get The Party Started (feat. Bring Me The Horizon)",
+    "msPlayed" : 209123
+  },
+  {
+    "endTime" : "2021-11-07 22:10",
+    "artistName" : "Fresno",
+    "trackName" : "INV011: E VEJA SÓ (feat. Jup do Bairro)",
+    "msPlayed" : 234796
+  },
+  {
+    "endTime" : "2021-11-07 22:14",
+    "artistName" : "Akon",
+    "trackName" : "Lonely",
+    "msPlayed" : 235800
+  },
+  {
+    "endTime" : "2021-11-07 22:18",
+    "artistName" : "Young Thug",
+    "trackName" : "Check",
+    "msPlayed" : 230693
+  },
+  {
+    "endTime" : "2021-11-07 22:23",
+    "artistName" : "MGMT",
+    "trackName" : "Little Dark Age",
+    "msPlayed" : 299960
+  },
+  {
+    "endTime" : "2021-11-07 22:25",
+    "artistName" : "LoveLeo",
+    "trackName" : "ROSIE",
+    "msPlayed" : 116510
+  },
+  {
+    "endTime" : "2021-11-08 02:26",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 50740
+  },
+  {
+    "endTime" : "2021-11-08 11:43",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 150991
+  },
+  {
+    "endTime" : "2021-11-08 11:47",
+    "artistName" : "Denzel Curry",
+    "trackName" : "SPEEDBOAT",
+    "msPlayed" : 222533
+  },
+  {
+    "endTime" : "2021-11-08 11:47",
+    "artistName" : "Baby Keem",
+    "trackName" : "HONEST",
+    "msPlayed" : 37286
+  },
+  {
+    "endTime" : "2021-11-08 11:51",
+    "artistName" : "Travis Scott",
+    "trackName" : "HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX",
+    "msPlayed" : 244873
+  },
+  {
+    "endTime" : "2021-11-08 11:55",
+    "artistName" : "Don Toliver",
+    "trackName" : "HAD ENOUGH (feat. Quavo & Offset)",
+    "msPlayed" : 157133
+  },
+  {
+    "endTime" : "2021-11-08 11:58",
+    "artistName" : "JACKBOYS",
+    "trackName" : "GATTI",
+    "msPlayed" : 181144
+  },
+  {
+    "endTime" : "2021-11-08 18:16",
+    "artistName" : "JACKBOYS",
+    "trackName" : "GANG GANG",
+    "msPlayed" : 129060
+  },
+  {
+    "endTime" : "2021-11-08 19:00",
+    "artistName" : "Derek",
+    "trackName" : "Atrás de Tu",
+    "msPlayed" : 233758
+  },
+  {
+    "endTime" : "2021-11-08 19:05",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Lui Lui",
+    "msPlayed" : 281223
+  },
+  {
+    "endTime" : "2021-11-08 19:15",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Sem Colete",
+    "msPlayed" : 37766
+  },
+  {
+    "endTime" : "2021-11-08 19:18",
+    "artistName" : "Derek",
+    "trackName" : "Atrás de Tu",
+    "msPlayed" : 183428
+  },
+  {
+    "endTime" : "2021-11-08 19:23",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Lui Lui",
+    "msPlayed" : 281223
+  },
+  {
+    "endTime" : "2021-11-08 19:26",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 204693
+  },
+  {
+    "endTime" : "2021-11-08 19:29",
+    "artistName" : "PCN boladão",
+    "trackName" : "Proibido Mas Alivia",
+    "msPlayed" : 134787
+  },
+  {
+    "endTime" : "2021-11-08 19:33",
+    "artistName" : "WIU",
+    "trackName" : "Lágrimas de Crocodilo",
+    "msPlayed" : 196363
+  },
+  {
+    "endTime" : "2021-11-08 19:37",
+    "artistName" : "Kyan",
+    "trackName" : "The Box Medley 2",
+    "msPlayed" : 237000
+  },
+  {
+    "endTime" : "2021-11-08 23:31",
+    "artistName" : "Big Bllakk",
+    "trackName" : "Bem e Mal",
+    "msPlayed" : 91864
+  },
+  {
+    "endTime" : "2021-11-08 23:34",
+    "artistName" : "Derek",
+    "trackName" : "Atrás de Tu",
+    "msPlayed" : 183428
+  },
+  {
+    "endTime" : "2021-11-08 23:39",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Lui Lui",
+    "msPlayed" : 281223
+  },
+  {
+    "endTime" : "2021-11-08 23:43",
+    "artistName" : "Kyan",
+    "trackName" : "The Box Medley 2",
+    "msPlayed" : 237000
+  },
+  {
+    "endTime" : "2021-11-08 23:45",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Sem Colete",
+    "msPlayed" : 160000
+  },
+  {
+    "endTime" : "2021-11-08 23:49",
+    "artistName" : "Yung Nobre",
+    "trackName" : "Top Boy",
+    "msPlayed" : 181274
+  },
+  {
+    "endTime" : "2021-11-08 23:52",
+    "artistName" : "Derek",
+    "trackName" : "Freestyle",
+    "msPlayed" : 166415
+  },
+  {
+    "endTime" : "2021-11-08 23:56",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 204693
+  },
+  {
+    "endTime" : "2021-11-08 23:59",
+    "artistName" : "WIU",
+    "trackName" : "Lágrimas de Crocodilo",
+    "msPlayed" : 196363
+  },
+  {
+    "endTime" : "2021-11-09 00:03",
+    "artistName" : "Dalua",
+    "trackName" : "Intro / Te Levar Daqui",
+    "msPlayed" : 240820
+  },
+  {
+    "endTime" : "2021-11-09 00:04",
+    "artistName" : "LEALL",
+    "trackName" : "Demonike",
+    "msPlayed" : 24499
+  },
+  {
+    "endTime" : "2021-11-09 00:08",
+    "artistName" : "Big Bllakk",
+    "trackName" : "Sirenes",
+    "msPlayed" : 230000
+  },
+  {
+    "endTime" : "2021-11-09 00:10",
+    "artistName" : "Derek",
+    "trackName" : "I TOLD YOU",
+    "msPlayed" : 146825
+  },
+  {
+    "endTime" : "2021-11-09 00:12",
+    "artistName" : "Elicê",
+    "trackName" : "Pool Party",
+    "msPlayed" : 138466
+  },
+  {
+    "endTime" : "2021-11-09 00:16",
+    "artistName" : "Yung Nobre",
+    "trackName" : "Nikeboyzsport",
+    "msPlayed" : 196124
+  },
+  {
+    "endTime" : "2021-11-09 00:17",
+    "artistName" : "2T",
+    "trackName" : "Put4O e Treinado",
+    "msPlayed" : 58325
+  },
+  {
+    "endTime" : "2021-11-09 00:20",
+    "artistName" : "Putodiparis",
+    "trackName" : "Lacroc",
+    "msPlayed" : 157030
+  },
+  {
+    "endTime" : "2021-11-09 00:23",
+    "artistName" : "Derek",
+    "trackName" : "Lil Jon 2",
+    "msPlayed" : 222720
+  },
+  {
+    "endTime" : "2021-11-09 00:27",
+    "artistName" : "LEALL",
+    "trackName" : "Infravermelho",
+    "msPlayed" : 186000
+  },
+  {
+    "endTime" : "2021-11-09 00:30",
+    "artistName" : "Derxan",
+    "trackName" : "Chumbo",
+    "msPlayed" : 135464
+  },
+  {
+    "endTime" : "2021-11-09 00:43",
+    "artistName" : "Big Bllakk",
+    "trackName" : "Bota a Cara no Beco",
+    "msPlayed" : 58198
+  },
+  {
+    "endTime" : "2021-11-09 00:43",
+    "artistName" : "Cage The Elephant",
+    "trackName" : "Skin and Bones",
+    "msPlayed" : 2030
+  },
+  {
+    "endTime" : "2021-11-09 00:43",
+    "artistName" : "Enzo from the Block",
+    "trackName" : "Lacoste 6",
+    "msPlayed" : 3090
+  },
+  {
+    "endTime" : "2021-11-09 00:43",
+    "artistName" : "Psan9daplug",
+    "trackName" : "9",
+    "msPlayed" : 1700
+  },
+  {
+    "endTime" : "2021-11-09 00:46",
+    "artistName" : "Kanye West",
+    "trackName" : "All Mine",
+    "msPlayed" : 145506
+  },
+  {
+    "endTime" : "2021-11-09 00:50",
+    "artistName" : "21 Savage",
+    "trackName" : "good day",
+    "msPlayed" : 242447
+  },
+  {
+    "endTime" : "2021-11-09 02:17",
+    "artistName" : "Tyler, The Creator",
+    "trackName" : "November",
+    "msPlayed" : 5825
+  },
+  {
+    "endTime" : "2021-11-09 02:28",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set do Dj Pedro 3.0",
+    "msPlayed" : 572720
+  },
+  {
+    "endTime" : "2021-11-09 02:34",
+    "artistName" : "Anderson Freire",
+    "trackName" : "Raridade",
+    "msPlayed" : 297726
+  },
+  {
+    "endTime" : "2021-11-09 02:37",
+    "artistName" : "King Von",
+    "trackName" : "Took Her To The O",
+    "msPlayed" : 196179
+  },
+  {
+    "endTime" : "2021-11-09 02:50",
+    "artistName" : "BK",
+    "trackName" : "Castelos & Ruínas",
+    "msPlayed" : 211735
+  },
+  {
+    "endTime" : "2021-11-09 12:20",
+    "artistName" : "BK",
+    "trackName" : "Castelos & Ruínas",
+    "msPlayed" : 610
+  },
+  {
+    "endTime" : "2021-11-09 12:25",
+    "artistName" : "Teto",
+    "trackName" : "Mustang Preto",
+    "msPlayed" : 183000
+  },
+  {
+    "endTime" : "2021-11-09 12:26",
+    "artistName" : "The Cure",
+    "trackName" : "Just Like Heaven",
+    "msPlayed" : 33510
+  },
+  {
+    "endTime" : "2021-11-09 12:29",
+    "artistName" : "Lil Nas X",
+    "trackName" : "INDUSTRY BABY (feat. Jack Harlow)",
+    "msPlayed" : 212352
+  },
+  {
+    "endTime" : "2021-11-09 12:30",
+    "artistName" : "Lil Nas X",
+    "trackName" : "SUN GOES DOWN",
+    "msPlayed" : 44257
+  },
+  {
+    "endTime" : "2021-11-09 12:30",
+    "artistName" : "Lil Nas X",
+    "trackName" : "SCOOP (feat. Doja Cat)",
+    "msPlayed" : 9330
+  },
+  {
+    "endTime" : "2021-11-09 12:33",
+    "artistName" : "RalphTheKiD",
+    "trackName" : "Bike&balla",
+    "msPlayed" : 177250
+  },
+  {
+    "endTime" : "2021-11-09 12:37",
+    "artistName" : "Kevin Abstract",
+    "trackName" : "Mississippi",
+    "msPlayed" : 217066
+  },
+  {
+    "endTime" : "2021-11-09 12:38",
+    "artistName" : "Mc Jacaré",
+    "trackName" : "Toma Sua Cavalona - Remix",
+    "msPlayed" : 25678
+  },
+  {
+    "endTime" : "2021-11-09 12:43",
+    "artistName" : "MGMT",
+    "trackName" : "Little Dark Age",
+    "msPlayed" : 299960
+  },
+  {
+    "endTime" : "2021-11-09 12:44",
+    "artistName" : "Tyler, The Creator",
+    "trackName" : "Droppin' Seeds (feat. Lil' Wayne)",
+    "msPlayed" : 60000
+  },
+  {
+    "endTime" : "2021-11-09 12:48",
+    "artistName" : "The Internet",
+    "trackName" : "Come Over",
+    "msPlayed" : 248050
+  },
+  {
+    "endTime" : "2021-11-09 12:52",
+    "artistName" : "BROCKHAMPTON",
+    "trackName" : "RENTAL",
+    "msPlayed" : 213658
+  },
+  {
+    "endTime" : "2021-11-09 12:56",
+    "artistName" : "Post Malone",
+    "trackName" : "A Thousand Bad Times",
+    "msPlayed" : 221173
+  },
+  {
+    "endTime" : "2021-11-09 12:59",
+    "artistName" : "Oliver Tree",
+    "trackName" : "Alien Boy",
+    "msPlayed" : 164312
+  },
+  {
+    "endTime" : "2021-11-09 13:03",
+    "artistName" : "Cynthia Luz",
+    "trackName" : "Só o Convívio",
+    "msPlayed" : 251707
+  },
+  {
+    "endTime" : "2021-11-09 13:06",
+    "artistName" : "Cage The Elephant",
+    "trackName" : "Ain't No Rest for the Wicked",
+    "msPlayed" : 177333
+  },
+  {
+    "endTime" : "2021-11-09 13:07",
+    "artistName" : "Matt Maltese",
+    "trackName" : "As the World Caves In",
+    "msPlayed" : 7580
+  },
+  {
+    "endTime" : "2021-11-09 13:07",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "Bad Habits",
+    "msPlayed" : 1190
+  },
+  {
+    "endTime" : "2021-11-09 13:10",
+    "artistName" : "Matt Maltese",
+    "trackName" : "As the World Caves In",
+    "msPlayed" : 218754
+  },
+  {
+    "endTime" : "2021-11-09 13:14",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "Bad Habits",
+    "msPlayed" : 231041
+  },
+  {
+    "endTime" : "2021-11-09 13:17",
+    "artistName" : "Kayla Nicole",
+    "trackName" : "Bundles (feat. Taylor Girlz)",
+    "msPlayed" : 154805
+  },
+  {
+    "endTime" : "2021-11-09 13:44",
+    "artistName" : "GIULIA BE",
+    "trackName" : "menina solta",
+    "msPlayed" : 67008
+  },
+  {
+    "endTime" : "2021-11-09 13:49",
+    "artistName" : "Kevin MacLeod",
+    "trackName" : "Monkeys Spinning Monkeys",
+    "msPlayed" : 17823
+  },
+  {
+    "endTime" : "2021-11-09 13:49",
+    "artistName" : "Bruno Mars",
+    "trackName" : "Leave The Door Open",
+    "msPlayed" : 242096
+  },
+  {
+    "endTime" : "2021-11-09 13:50",
+    "artistName" : "LUDMILLA",
+    "trackName" : "24 horas por dia",
+    "msPlayed" : 1220
+  },
+  {
+    "endTime" : "2021-11-09 13:50",
+    "artistName" : "IZA",
+    "trackName" : "Gueto",
+    "msPlayed" : 65960
+  },
+  {
+    "endTime" : "2021-11-09 13:51",
+    "artistName" : "Conkarah",
+    "trackName" : "Banana (feat. Shaggy) - DJ FLe - Minisiren Remix",
+    "msPlayed" : 11490
+  },
+  {
+    "endTime" : "2021-11-09 13:53",
+    "artistName" : "MC Levin",
+    "trackName" : "Sua amiga deu",
+    "msPlayed" : 127798
+  },
+  {
+    "endTime" : "2021-11-09 19:33",
+    "artistName" : "Dan Ventura",
+    "trackName" : "Passinho Debochado",
+    "msPlayed" : 1610
+  },
+  {
+    "endTime" : "2021-11-09 19:33",
+    "artistName" : "Måneskin",
+    "trackName" : "Beggin'",
+    "msPlayed" : 1760
+  },
+  {
+    "endTime" : "2021-11-09 19:33",
+    "artistName" : "Pabllo Vittar",
+    "trackName" : "Zap Zum",
+    "msPlayed" : 21551
+  },
+  {
+    "endTime" : "2021-11-09 19:33",
+    "artistName" : "Brandy",
+    "trackName" : "(Everything I Do) I Do It for You",
+    "msPlayed" : 2780
+  },
+  {
+    "endTime" : "2021-11-09 19:34",
+    "artistName" : "Charli XCX",
+    "trackName" : "Good Ones",
+    "msPlayed" : 25100
+  },
+  {
+    "endTime" : "2021-11-09 19:36",
+    "artistName" : "MC Ryan SP",
+    "trackName" : "Saudade Safada (feat. Zé Vaqueiro)",
+    "msPlayed" : 126170
+  },
+  {
+    "endTime" : "2021-11-09 19:38",
+    "artistName" : "Lara Silva",
+    "trackName" : "Amiga",
+    "msPlayed" : 135172
+  },
+  {
+    "endTime" : "2021-11-09 19:40",
+    "artistName" : "CKay",
+    "trackName" : "love nwantiti (ah ah ah)",
+    "msPlayed" : 103397
+  },
+  {
+    "endTime" : "2021-11-09 19:41",
+    "artistName" : "Coldplay",
+    "trackName" : "My Universe",
+    "msPlayed" : 31470
+  },
+  {
+    "endTime" : "2021-11-09 19:44",
+    "artistName" : "Matt Maltese",
+    "trackName" : "As the World Caves In",
+    "msPlayed" : 185880
+  },
+  {
+    "endTime" : "2021-11-09 19:48",
+    "artistName" : "Flo Rida",
+    "trackName" : "Low (feat. T-Pain)",
+    "msPlayed" : 227670
+  },
+  {
+    "endTime" : "2021-11-09 19:48",
+    "artistName" : "Ana Castela",
+    "trackName" : "Neon",
+    "msPlayed" : 1780
+  },
+  {
+    "endTime" : "2021-11-09 20:06",
+    "artistName" : "MC Kevin o Chris",
+    "trackName" : "Ela É do Tipo (feat. Drake) - Remix",
+    "msPlayed" : 212432
+  },
+  {
+    "endTime" : "2021-11-09 20:06",
+    "artistName" : "Coldplay",
+    "trackName" : "Let Somebody Go",
+    "msPlayed" : 40007
+  },
+  {
+    "endTime" : "2021-11-09 20:07",
+    "artistName" : "Charli XCX",
+    "trackName" : "Boys",
+    "msPlayed" : 3840
+  },
+  {
+    "endTime" : "2021-11-09 20:11",
+    "artistName" : "MC Hariel",
+    "trackName" : "Lei do Retorno 2",
+    "msPlayed" : 258461
+  },
+  {
+    "endTime" : "2021-11-09 20:14",
+    "artistName" : "PEDRO SAMPAIO",
+    "trackName" : "ATENÇÃO",
+    "msPlayed" : 135111
+  },
+  {
+    "endTime" : "2021-11-09 21:10",
+    "artistName" : "IZA",
+    "trackName" : "Gueto",
+    "msPlayed" : 74032
+  },
+  {
+    "endTime" : "2021-11-10 12:56",
+    "artistName" : "Aka Rasta",
+    "trackName" : "Marra",
+    "msPlayed" : 199193
+  },
+  {
+    "endTime" : "2021-11-10 18:35",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Foda",
+    "msPlayed" : 221240
+  },
+  {
+    "endTime" : "2021-11-10 18:41",
+    "artistName" : "Derek",
+    "trackName" : "Atrás de Tu",
+    "msPlayed" : 302318
+  },
+  {
+    "endTime" : "2021-11-10 18:42",
+    "artistName" : "Putodiparis",
+    "trackName" : "Lacroc",
+    "msPlayed" : 28511
+  },
+  {
+    "endTime" : "2021-11-10 18:50",
+    "artistName" : "Psan9daplug",
+    "trackName" : "9",
+    "msPlayed" : 11040
+  },
+  {
+    "endTime" : "2021-11-10 19:44",
+    "artistName" : "Travis Scott",
+    "trackName" : "MAFIA",
+    "msPlayed" : 229160
+  },
+  {
+    "endTime" : "2021-11-10 19:48",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 264390
+  },
+  {
+    "endTime" : "2021-11-10 19:49",
+    "artistName" : "Gorillaz",
+    "trackName" : "Aries (feat. Peter Hook and Georgia)",
+    "msPlayed" : 47599
+  },
+  {
+    "endTime" : "2021-11-10 19:49",
+    "artistName" : "21 Savage",
+    "trackName" : "gun smoke",
+    "msPlayed" : 410
+  },
+  {
+    "endTime" : "2021-11-10 19:49",
+    "artistName" : "Terno Rei",
+    "trackName" : "Medo",
+    "msPlayed" : 540
+  },
+  {
+    "endTime" : "2021-11-10 19:49",
+    "artistName" : "Froid",
+    "trackName" : "Pseudosocial",
+    "msPlayed" : 1610
+  },
+  {
+    "endTime" : "2021-11-10 19:54",
+    "artistName" : "Dreamer Isioma",
+    "trackName" : "Sensitive",
+    "msPlayed" : 174720
+  },
+  {
+    "endTime" : "2021-11-10 19:59",
+    "artistName" : "Metro Boomin",
+    "trackName" : "No Complaints (feat. Offset & Drake) (Bonus)",
+    "msPlayed" : 265480
+  },
+  {
+    "endTime" : "2021-11-10 20:02",
+    "artistName" : "Catfish and the Bottlemen",
+    "trackName" : "Cocoon",
+    "msPlayed" : 204233
+  },
+  {
+    "endTime" : "2021-11-10 20:06",
+    "artistName" : "Young Thug",
+    "trackName" : "Halftime",
+    "msPlayed" : 226733
+  },
+  {
+    "endTime" : "2021-11-10 20:10",
+    "artistName" : "Joey Bada$$",
+    "trackName" : "Survival Tactics",
+    "msPlayed" : 202784
+  },
+  {
+    "endTime" : "2021-11-10 20:14",
+    "artistName" : "Froid",
+    "trackName" : "Indea Moss",
+    "msPlayed" : 214547
+  },
+  {
+    "endTime" : "2021-11-10 20:19",
+    "artistName" : "Travis Scott",
+    "trackName" : "SICKO MODE",
+    "msPlayed" : 312820
+  },
+  {
+    "endTime" : "2021-11-10 20:22",
+    "artistName" : "Kevin Abstract",
+    "trackName" : "Use Me",
+    "msPlayed" : 132131
+  },
+  {
+    "endTime" : "2021-11-10 20:26",
+    "artistName" : "Maverick Sabre",
+    "trackName" : "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
+    "msPlayed" : 181306
+  },
+  {
+    "endTime" : "2021-11-10 21:25",
+    "artistName" : "Lil Baby",
+    "trackName" : "We Paid (feat. 42 Dugg)",
+    "msPlayed" : 181929
+  },
+  {
+    "endTime" : "2021-11-10 21:28",
+    "artistName" : "Tyler, The Creator",
+    "trackName" : "CORSO",
+    "msPlayed" : 146481
+  },
+  {
+    "endTime" : "2021-11-10 21:32",
+    "artistName" : "Drake",
+    "trackName" : "Toosie Slide",
+    "msPlayed" : 247058
+  },
+  {
+    "endTime" : "2021-11-11 12:49",
+    "artistName" : "DEGE",
+    "trackName" : "12",
+    "msPlayed" : 120958
+  },
+  {
+    "endTime" : "2021-11-11 12:50",
+    "artistName" : "Yung Nobre",
+    "trackName" : "Chicago",
+    "msPlayed" : 40120
+  },
+  {
+    "endTime" : "2021-11-11 12:52",
+    "artistName" : "Dj Vitin do Pc",
+    "trackName" : "Que Saudade Dela, Na Base tu Quebra a Cama",
+    "msPlayed" : 129230
+  },
+  {
+    "endTime" : "2021-11-11 16:31",
+    "artistName" : "Martelin",
+    "trackName" : "212",
+    "msPlayed" : 24859
+  },
+  {
+    "endTime" : "2021-11-12 11:49",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 9860
+  },
+  {
+    "endTime" : "2021-11-12 11:53",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218282
+  },
+  {
+    "endTime" : "2021-11-12 11:55",
+    "artistName" : "Djonga",
+    "trackName" : "Entre o Código da Espada e o Perfume da Rosa",
+    "msPlayed" : 128213
+  },
+  {
+    "endTime" : "2021-11-12 12:02",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-11-12 12:06",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 236586
+  },
+  {
+    "endTime" : "2021-11-12 12:11",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 279253
+  },
+  {
+    "endTime" : "2021-11-12 12:57",
+    "artistName" : "Djonga",
+    "trackName" : "Verdades Inventadas",
+    "msPlayed" : 173397
+  },
+  {
+    "endTime" : "2021-11-12 13:00",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175317
+  },
+  {
+    "endTime" : "2021-11-12 13:03",
+    "artistName" : "Djonga",
+    "trackName" : "Heresia",
+    "msPlayed" : 167168
+  },
+  {
+    "endTime" : "2021-11-12 13:11",
+    "artistName" : "Djonga",
+    "trackName" : "Irmãos de Arma, Irmãos de Luta",
+    "msPlayed" : 131669
+  },
+  {
+    "endTime" : "2021-11-12 13:16",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 223892
+  },
+  {
+    "endTime" : "2021-11-12 13:21",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218282
+  },
+  {
+    "endTime" : "2021-11-12 13:23",
+    "artistName" : "Djonga",
+    "trackName" : "Entre o Código da Espada e o Perfume da Rosa",
+    "msPlayed" : 128213
+  },
+  {
+    "endTime" : "2021-11-12 13:27",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-11-12 13:31",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 236586
+  },
+  {
+    "endTime" : "2021-11-12 13:41",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 532220
+  },
+  {
+    "endTime" : "2021-11-12 13:43",
+    "artistName" : "Djonga",
+    "trackName" : "Verdades Inventadas",
+    "msPlayed" : 173397
+  },
+  {
+    "endTime" : "2021-11-12 13:47",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175317
+  },
+  {
+    "endTime" : "2021-11-12 13:50",
+    "artistName" : "Djonga",
+    "trackName" : "Heresia",
+    "msPlayed" : 167168
+  },
+  {
+    "endTime" : "2021-11-12 13:52",
+    "artistName" : "Djonga",
+    "trackName" : "Irmãos de Arma, Irmãos de Luta",
+    "msPlayed" : 131669
+  },
+  {
+    "endTime" : "2021-11-12 13:56",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 223892
+  },
+  {
+    "endTime" : "2021-11-12 13:59",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 161600
+  },
+  {
+    "endTime" : "2021-11-12 14:02",
+    "artistName" : "Djonga",
+    "trackName" : "ATÍPICO",
+    "msPlayed" : 207171
+  },
+  {
+    "endTime" : "2021-11-12 14:08",
+    "artistName" : "Djonga",
+    "trackName" : "JUNHO DE 94",
+    "msPlayed" : 327838
+  },
+  {
+    "endTime" : "2021-11-12 14:14",
+    "artistName" : "Djonga",
+    "trackName" : "UFA",
+    "msPlayed" : 351978
+  },
+  {
+    "endTime" : "2021-11-12 14:18",
+    "artistName" : "Djonga",
+    "trackName" : "1010",
+    "msPlayed" : 237789
+  },
+  {
+    "endTime" : "2021-11-12 14:51",
+    "artistName" : "Djonga",
+    "trackName" : "SOLTO",
+    "msPlayed" : 219178
+  },
+  {
+    "endTime" : "2021-11-12 14:57",
+    "artistName" : "Djonga",
+    "trackName" : "CANÇÃO PRO MEU FILHO",
+    "msPlayed" : 212170
+  },
+  {
+    "endTime" : "2021-11-12 15:00",
+    "artistName" : "Djonga",
+    "trackName" : "CORRA",
+    "msPlayed" : 219466
+  },
+  {
+    "endTime" : "2021-11-12 15:04",
+    "artistName" : "Djonga",
+    "trackName" : "ESTOURO",
+    "msPlayed" : 211829
+  },
+  {
+    "endTime" : "2021-11-12 15:15",
+    "artistName" : "Djonga",
+    "trackName" : "DE LÁ",
+    "msPlayed" : 165983
+  },
+  {
+    "endTime" : "2021-11-12 17:51",
+    "artistName" : "Djonga",
+    "trackName" : "ETERNO (Remake)",
+    "msPlayed" : 226389
+  },
+  {
+    "endTime" : "2021-11-12 18:06",
+    "artistName" : "Froid",
+    "trackName" : "Indea Moss",
+    "msPlayed" : 287433
+  },
+  {
+    "endTime" : "2021-11-12 18:10",
+    "artistName" : "Djonga",
+    "trackName" : "ATÍPICO",
+    "msPlayed" : 199951
+  },
+  {
+    "endTime" : "2021-11-12 18:12",
+    "artistName" : "Djonga",
+    "trackName" : "JUNHO DE 94",
+    "msPlayed" : 79210
+  },
+  {
+    "endTime" : "2021-11-17 00:44",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 132340
+  },
+  {
+    "endTime" : "2021-11-17 17:26",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 85943
+  },
+  {
+    "endTime" : "2021-11-17 17:27",
+    "artistName" : "Djonga",
+    "trackName" : "Entre o Código da Espada e o Perfume da Rosa",
+    "msPlayed" : 96682
+  },
+  {
+    "endTime" : "2021-11-17 18:55",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256778
+  },
+  {
+    "endTime" : "2021-11-18 01:20",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 78167
+  },
+  {
+    "endTime" : "2021-11-18 11:54",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 158193
+  },
+  {
+    "endTime" : "2021-11-18 11:59",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 279239
+  },
+  {
+    "endTime" : "2021-11-18 12:02",
+    "artistName" : "Djonga",
+    "trackName" : "Verdades Inventadas",
+    "msPlayed" : 173184
+  },
+  {
+    "endTime" : "2021-11-18 12:05",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175184
+  },
+  {
+    "endTime" : "2021-11-18 12:24",
+    "artistName" : "Djonga",
+    "trackName" : "Heresia",
+    "msPlayed" : 167002
+  },
+  {
+    "endTime" : "2021-11-18 12:26",
+    "artistName" : "Djonga",
+    "trackName" : "Irmãos de Arma, Irmãos de Luta",
+    "msPlayed" : 131440
+  },
+  {
+    "endTime" : "2021-11-18 12:32",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 223708
+  },
+  {
+    "endTime" : "2021-11-18 17:02",
+    "artistName" : "Djonga",
+    "trackName" : "ATÍPICO",
+    "msPlayed" : 141230
+  },
+  {
+    "endTime" : "2021-11-18 17:27",
+    "artistName" : "Djonga",
+    "trackName" : "ATÍPICO",
+    "msPlayed" : 14278
+  },
+  {
+    "endTime" : "2021-11-18 17:31",
+    "artistName" : "Derek",
+    "trackName" : "Atrás de Tu",
+    "msPlayed" : 183429
+  },
+  {
+    "endTime" : "2021-11-18 17:37",
+    "artistName" : "Djonga",
+    "trackName" : "JUNHO DE 94",
+    "msPlayed" : 328928
+  },
+  {
+    "endTime" : "2021-11-18 17:51",
+    "artistName" : "Djonga",
+    "trackName" : "UFA",
+    "msPlayed" : 351835
+  },
+  {
+    "endTime" : "2021-11-18 17:56",
+    "artistName" : "Djonga",
+    "trackName" : "1010",
+    "msPlayed" : 237674
+  },
+  {
+    "endTime" : "2021-11-18 18:00",
+    "artistName" : "Djonga",
+    "trackName" : "SOLTO",
+    "msPlayed" : 254289
+  },
+  {
+    "endTime" : "2021-11-18 18:04",
+    "artistName" : "Djonga",
+    "trackName" : "CANÇÃO PRO MEU FILHO",
+    "msPlayed" : 211942
+  },
+  {
+    "endTime" : "2021-11-18 18:07",
+    "artistName" : "Djonga",
+    "trackName" : "CORRA",
+    "msPlayed" : 219432
+  },
+  {
+    "endTime" : "2021-11-18 18:12",
+    "artistName" : "Djonga",
+    "trackName" : "ESTOURO",
+    "msPlayed" : 211679
+  },
+  {
+    "endTime" : "2021-11-18 18:14",
+    "artistName" : "Djonga",
+    "trackName" : "DE LÁ",
+    "msPlayed" : 165925
+  },
+  {
+    "endTime" : "2021-11-18 18:18",
+    "artistName" : "Djonga",
+    "trackName" : "ETERNO (Remake)",
+    "msPlayed" : 226190
+  },
+  {
+    "endTime" : "2021-11-18 18:22",
+    "artistName" : "FBC",
+    "trackName" : "SE EU NÃO TE CANTAR",
+    "msPlayed" : 247891
+  },
+  {
+    "endTime" : "2021-11-18 18:24",
+    "artistName" : "Matt Maltese",
+    "trackName" : "As the World Caves In",
+    "msPlayed" : 18195
+  },
+  {
+    "endTime" : "2021-11-18 19:59",
+    "artistName" : "Travis Scott",
+    "trackName" : "MAFIA",
+    "msPlayed" : 204394
+  },
+  {
+    "endTime" : "2021-11-18 20:02",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 149464
+  },
+  {
+    "endTime" : "2021-11-18 20:06",
+    "artistName" : "MC Nego da Marcone",
+    "trackName" : "Beat da Felicidade",
+    "msPlayed" : 238931
+  },
+  {
+    "endTime" : "2021-11-18 20:09",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 226653
+  },
+  {
+    "endTime" : "2021-11-19 11:30",
+    "artistName" : "Kanye West",
+    "trackName" : "God Breathed",
+    "msPlayed" : 3026
+  },
+  {
+    "endTime" : "2021-11-19 11:34",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Trap (feat. Dfideliz, MC Igu, Jé Santiago & Derek)",
+    "msPlayed" : 237692
+  },
+  {
+    "endTime" : "2021-11-19 11:40",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Um Minuto (feat. MC Igu, Jé Santiago, Derek & Dfideliz)",
+    "msPlayed" : 239844
+  },
+  {
+    "endTime" : "2021-11-19 11:44",
+    "artistName" : "Recayd Mob",
+    "trackName" : "ICE ON MY WRIST (feat. Derek, MC Igu, The Boy & Jé Santiago)",
+    "msPlayed" : 213180
+  },
+  {
+    "endTime" : "2021-11-19 11:48",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Toolio (feat. Derek, MC Igu, Jé Santiago & Dfideliz)",
+    "msPlayed" : 231456
+  },
+  {
+    "endTime" : "2021-11-19 12:13",
+    "artistName" : "Recayd Mob",
+    "trackName" : "OkOk - Zona Sul (feat. Dfideliz, MC Igu, Derek & Jé Santiago)",
+    "msPlayed" : 225292
+  },
+  {
+    "endTime" : "2021-11-19 12:14",
+    "artistName" : "Recayd Mob",
+    "trackName" : "OkOk - Zona Sul (feat. Dfideliz, MC Igu, Derek & Jé Santiago)",
+    "msPlayed" : 46191
+  },
+  {
+    "endTime" : "2021-11-19 16:13",
+    "artistName" : "Recayd Mob",
+    "trackName" : "A Bala Bateu (feat. MC Igu, Derek & Dfideliz)",
+    "msPlayed" : 38330
+  },
+  {
+    "endTime" : "2021-11-19 16:15",
+    "artistName" : "Recayd Mob",
+    "trackName" : "A Bala Bateu (feat. MC Igu, Derek & Dfideliz)",
+    "msPlayed" : 100621
+  },
+  {
+    "endTime" : "2021-11-19 16:40",
+    "artistName" : "Recayd Mob",
+    "trackName" : "S.P. (feat. MC Igu, Derek, Dfideliz & Kyan)",
+    "msPlayed" : 185028
+  },
+  {
+    "endTime" : "2021-11-19 16:45",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Rich Nigg* Sh*t (feat. MC Igu, Sidoka, Derek & Jé Santiago)",
+    "msPlayed" : 268162
+  },
+  {
+    "endTime" : "2021-11-19 19:11",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Wet (feat. Derek, MC Igu & Jé Santiago)",
+    "msPlayed" : 163605
+  },
+  {
+    "endTime" : "2021-11-19 19:16",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Wet (feat. Derek, MC Igu & Jé Santiago)",
+    "msPlayed" : 2196
+  },
+  {
+    "endTime" : "2021-11-19 19:55",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Pouco Molly Muito Lean (feat. Jé Santiago, Dfideliz, MC Igu & Derek)",
+    "msPlayed" : 315969
+  },
+  {
+    "endTime" : "2021-11-19 19:58",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Lean na Fanta (feat. Derek, Dfideliz, MC Igu & Jé Santiago)",
+    "msPlayed" : 199931
+  },
+  {
+    "endTime" : "2021-11-19 20:03",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Sparrow 2 (feat. MC Igu, Derek, N.A.N.A., The Boy, Jé Santiago, Dfideliz & Bone)",
+    "msPlayed" : 285936
+  },
+  {
+    "endTime" : "2021-11-20 13:23",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Gangshit (feat. MC Igu, Derek, The Boy & N.A.N.A.)",
+    "msPlayed" : 109522
+  },
+  {
+    "endTime" : "2021-11-20 13:49",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Gangshit (feat. MC Igu, Derek, The Boy & N.A.N.A.)",
+    "msPlayed" : 142431
+  },
+  {
+    "endTime" : "2021-11-20 13:52",
+    "artistName" : "Recayd Mob",
+    "trackName" : "3 Preto Quebrada e um Japonês (feat. MC Igu, Dfideliz, Derek & Jé Santiago)",
+    "msPlayed" : 161181
+  },
+  {
+    "endTime" : "2021-11-20 13:55",
+    "artistName" : "Recayd Mob",
+    "trackName" : "BANDO (feat. MC Igu, Derek, Jé Santiago & Dfideliz)",
+    "msPlayed" : 167178
+  },
+  {
+    "endTime" : "2021-11-20 13:59",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Bonde da Fumaça (feat. Murda Beatz)",
+    "msPlayed" : 236685
+  },
+  {
+    "endTime" : "2021-11-20 14:03",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Haters (feat. MC Igu, Jé Santiago, Derek & Dfideliz)",
+    "msPlayed" : 204680
+  },
+  {
+    "endTime" : "2021-11-20 14:06",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Diamantes (feat. MC Igu, Jé Santiago & Derek)",
+    "msPlayed" : 185679
+  },
+  {
+    "endTime" : "2021-11-20 14:10",
+    "artistName" : "Recayd Mob",
+    "trackName" : "213 Freestyle (feat. MC Igu, Derek, The Boy, N.A.N.A. & Dfideliz)",
+    "msPlayed" : 254426
+  },
+  {
+    "endTime" : "2021-11-20 14:14",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Vícios (feat. The Boy, Jé Santiago, N.A.N.A. & Dfideliz)",
+    "msPlayed" : 232437
+  },
+  {
+    "endTime" : "2021-11-20 14:19",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Babe (feat. MC Igu, Derek, Dfideliz & Jé Santiago)",
+    "msPlayed" : 207943
+  },
+  {
+    "endTime" : "2021-11-20 14:22",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Fashion e Usa Droga (feat. Derek, MC Igu, Dfideliz & Jé Santiago)",
+    "msPlayed" : 212442
+  },
+  {
+    "endTime" : "2021-11-20 14:30",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Flack Jack",
+    "msPlayed" : 37629
+  },
+  {
+    "endTime" : "2021-11-20 14:30",
+    "artistName" : "Recayd Mob",
+    "trackName" : "A Bala Bateu (feat. MC Igu, Derek & Dfideliz)",
+    "msPlayed" : 13935
+  },
+  {
+    "endTime" : "2021-11-20 14:33",
+    "artistName" : "Djonga",
+    "trackName" : "SOLTO",
+    "msPlayed" : 218959
+  },
+  {
+    "endTime" : "2021-11-20 14:38",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 223679
+  },
+  {
+    "endTime" : "2021-11-20 14:41",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175175
+  },
+  {
+    "endTime" : "2021-11-20 14:45",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256682
+  },
+  {
+    "endTime" : "2021-11-20 14:49",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218186
+  },
+  {
+    "endTime" : "2021-11-20 14:52",
+    "artistName" : "Derek",
+    "trackName" : "Atrás de Tu",
+    "msPlayed" : 183428
+  },
+  {
+    "endTime" : "2021-11-20 14:56",
+    "artistName" : "Matt Maltese",
+    "trackName" : "As the World Caves In",
+    "msPlayed" : 218700
+  },
+  {
+    "endTime" : "2021-11-20 15:00",
+    "artistName" : "Travis Scott",
+    "trackName" : "MAFIA",
+    "msPlayed" : 239926
+  },
+  {
+    "endTime" : "2021-11-20 15:02",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 149454
+  },
+  {
+    "endTime" : "2021-11-20 15:07",
+    "artistName" : "MC Nego da Marcone",
+    "trackName" : "Beat da Felicidade",
+    "msPlayed" : 238935
+  },
+  {
+    "endTime" : "2021-11-20 18:48",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 155555
+  },
+  {
+    "endTime" : "2021-11-22 23:17",
+    "artistName" : "DUDA BEAT",
+    "trackName" : "Meu Pisêro",
+    "msPlayed" : 145538
+  },
+  {
+    "endTime" : "2021-11-22 23:20",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218199
+  },
+  {
+    "endTime" : "2021-11-22 23:23",
+    "artistName" : "Djonga",
+    "trackName" : "Entre o Código da Espada e o Perfume da Rosa",
+    "msPlayed" : 128200
+  },
+  {
+    "endTime" : "2021-11-22 23:29",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 383884
+  },
+  {
+    "endTime" : "2021-11-22 23:33",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 236445
+  },
+  {
+    "endTime" : "2021-11-22 23:38",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 279184
+  },
+  {
+    "endTime" : "2021-11-22 23:40",
+    "artistName" : "Djonga",
+    "trackName" : "Verdades Inventadas",
+    "msPlayed" : 173188
+  },
+  {
+    "endTime" : "2021-11-22 23:43",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175183
+  },
+  {
+    "endTime" : "2021-11-22 23:46",
+    "artistName" : "Djonga",
+    "trackName" : "Heresia",
+    "msPlayed" : 167169
+  },
+  {
+    "endTime" : "2021-11-22 23:48",
+    "artistName" : "Djonga",
+    "trackName" : "Irmãos de Arma, Irmãos de Luta",
+    "msPlayed" : 131448
+  },
+  {
+    "endTime" : "2021-11-22 23:57",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 116270
+  },
+  {
+    "endTime" : "2021-11-22 23:59",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Wanna Be's (intro)",
+    "msPlayed" : 103936
+  },
+  {
+    "endTime" : "2021-11-23 00:01",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Rouff",
+    "msPlayed" : 117937
+  },
+  {
+    "endTime" : "2021-11-23 00:05",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Amarrou",
+    "msPlayed" : 217193
+  },
+  {
+    "endTime" : "2021-11-23 00:08",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Cheat Code",
+    "msPlayed" : 179929
+  },
+  {
+    "endTime" : "2021-11-23 00:12",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Lui Lui",
+    "msPlayed" : 281182
+  },
+  {
+    "endTime" : "2021-11-23 00:16",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "SUV",
+    "msPlayed" : 239941
+  },
+  {
+    "endTime" : "2021-11-23 00:19",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Diretoria",
+    "msPlayed" : 130398
+  },
+  {
+    "endTime" : "2021-11-23 00:22",
+    "artistName" : "Febem",
+    "trackName" : "JOVEM (feat. Smile)",
+    "msPlayed" : 141704
+  },
+  {
+    "endTime" : "2021-11-23 00:25",
+    "artistName" : "Febem",
+    "trackName" : "MÉXICO",
+    "msPlayed" : 165193
+  },
+  {
+    "endTime" : "2021-11-23 02:14",
+    "artistName" : "Febem",
+    "trackName" : "VAI PENSANDO",
+    "msPlayed" : 159285
+  },
+  {
+    "endTime" : "2021-11-23 12:24",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Toolio (feat. Derek, MC Igu, Jé Santiago & Dfideliz)",
+    "msPlayed" : 231252
+  },
+  {
+    "endTime" : "2021-11-23 12:24",
+    "artistName" : "Djonga",
+    "trackName" : "SOLTO",
+    "msPlayed" : 2965
+  },
+  {
+    "endTime" : "2021-11-23 12:26",
+    "artistName" : "Recayd Mob",
+    "trackName" : "A Bala Bateu (feat. MC Igu, Derek & Dfideliz)",
+    "msPlayed" : 138467
+  },
+  {
+    "endTime" : "2021-11-23 12:30",
+    "artistName" : "Djonga",
+    "trackName" : "SOLTO",
+    "msPlayed" : 219178
+  },
+  {
+    "endTime" : "2021-11-23 12:33",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 223682
+  },
+  {
+    "endTime" : "2021-11-23 12:36",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175185
+  },
+  {
+    "endTime" : "2021-11-23 12:41",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256689
+  },
+  {
+    "endTime" : "2021-11-23 12:44",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218195
+  },
+  {
+    "endTime" : "2021-11-23 12:47",
+    "artistName" : "Derek",
+    "trackName" : "Atrás de Tu",
+    "msPlayed" : 183429
+  },
+  {
+    "endTime" : "2021-11-23 12:51",
+    "artistName" : "Matt Maltese",
+    "trackName" : "As the World Caves In",
+    "msPlayed" : 218700
+  },
+  {
+    "endTime" : "2021-11-23 13:03",
+    "artistName" : "Travis Scott",
+    "trackName" : "MAFIA",
+    "msPlayed" : 239803
+  },
+  {
+    "endTime" : "2021-11-23 13:06",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 149454
+  },
+  {
+    "endTime" : "2021-11-23 13:10",
+    "artistName" : "MC Nego da Marcone",
+    "trackName" : "Beat da Felicidade",
+    "msPlayed" : 238941
+  },
+  {
+    "endTime" : "2021-11-23 13:14",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 226449
+  },
+  {
+    "endTime" : "2021-11-23 13:18",
+    "artistName" : "Kanye West",
+    "trackName" : "God Breathed",
+    "msPlayed" : 294437
+  },
+  {
+    "endTime" : "2021-11-23 13:19",
+    "artistName" : "Teto",
+    "trackName" : "Mustang Preto",
+    "msPlayed" : 13958
+  },
+  {
+    "endTime" : "2021-11-23 13:24",
+    "artistName" : "Kanye West",
+    "trackName" : "Come to Life",
+    "msPlayed" : 309958
+  },
+  {
+    "endTime" : "2021-11-23 13:27",
+    "artistName" : "Kanye West",
+    "trackName" : "No Child Left Behind",
+    "msPlayed" : 177949
+  },
+  {
+    "endTime" : "2021-11-23 13:32",
+    "artistName" : "Kanye West",
+    "trackName" : "Jail pt 2",
+    "msPlayed" : 296938
+  },
+  {
+    "endTime" : "2021-11-23 13:35",
+    "artistName" : "Kanye West",
+    "trackName" : "Ok Ok pt 2",
+    "msPlayed" : 204437
+  },
+  {
+    "endTime" : "2021-11-23 14:08",
+    "artistName" : "Kanye West",
+    "trackName" : "Junya pt 2",
+    "msPlayed" : 179234
+  },
+  {
+    "endTime" : "2021-11-23 14:16",
+    "artistName" : "Kanye West",
+    "trackName" : "Off The Grid",
+    "msPlayed" : 339056
+  },
+  {
+    "endTime" : "2021-11-23 14:28",
+    "artistName" : "Kanye West",
+    "trackName" : "Hurricane",
+    "msPlayed" : 243078
+  },
+  {
+    "endTime" : "2021-11-24 11:50",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 179995
+  },
+  {
+    "endTime" : "2021-11-24 12:40",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 245972
+  },
+  {
+    "endTime" : "2021-11-24 12:43",
+    "artistName" : "Kanye West",
+    "trackName" : "Keep My Spirit Alive",
+    "msPlayed" : 190943
+  },
+  {
+    "endTime" : "2021-11-24 12:47",
+    "artistName" : "Kanye West",
+    "trackName" : "Off The Grid",
+    "msPlayed" : 20930
+  },
+  {
+    "endTime" : "2021-11-24 12:47",
+    "artistName" : "JAY-Z",
+    "trackName" : "Ni**as In Paris",
+    "msPlayed" : 219218
+  },
+  {
+    "endTime" : "2021-11-24 12:51",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 226457
+  },
+  {
+    "endTime" : "2021-11-24 12:55",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 226445
+  },
+  {
+    "endTime" : "2021-11-24 12:58",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 226457
+  },
+  {
+    "endTime" : "2021-11-24 13:02",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 226468
+  },
+  {
+    "endTime" : "2021-11-24 18:18",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 89989
+  },
+  {
+    "endTime" : "2021-11-24 18:18",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 11743
+  },
+  {
+    "endTime" : "2021-11-24 18:22",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 226152
+  },
+  {
+    "endTime" : "2021-11-24 18:26",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 178280
+  },
+  {
+    "endTime" : "2021-11-24 18:28",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 117457
+  },
+  {
+    "endTime" : "2021-11-24 18:43",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 190820
+  },
+  {
+    "endTime" : "2021-11-24 18:44",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 48464
+  },
+  {
+    "endTime" : "2021-11-24 18:46",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 115704
+  },
+  {
+    "endTime" : "2021-11-24 18:49",
+    "artistName" : "FBC",
+    "trackName" : "SE EU NÃO TE CANTAR",
+    "msPlayed" : 151177
+  },
+  {
+    "endTime" : "2021-11-24 18:49",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 935
+  },
+  {
+    "endTime" : "2021-11-24 18:51",
+    "artistName" : "FBC",
+    "trackName" : "SE EU NÃO TE CANTAR",
+    "msPlayed" : 158711
+  },
+  {
+    "endTime" : "2021-11-24 18:55",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 194446
+  },
+  {
+    "endTime" : "2021-11-24 18:57",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 162452
+  },
+  {
+    "endTime" : "2021-11-24 19:06",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poetas no Topo 2",
+    "msPlayed" : 523426
+  },
+  {
+    "endTime" : "2021-11-24 19:09",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182444
+  },
+  {
+    "endTime" : "2021-11-24 19:12",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 199922
+  },
+  {
+    "endTime" : "2021-11-24 19:17",
+    "artistName" : "FBC",
+    "trackName" : "$ENHOR",
+    "msPlayed" : 254194
+  },
+  {
+    "endTime" : "2021-11-24 19:21",
+    "artistName" : "FBC",
+    "trackName" : "De Kenner",
+    "msPlayed" : 255383
+  },
+  {
+    "endTime" : "2021-11-24 19:23",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 127443
+  },
+  {
+    "endTime" : "2021-11-24 21:05",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 163634
+  },
+  {
+    "endTime" : "2021-11-24 23:17",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Wanna Be's (intro)",
+    "msPlayed" : 454
+  },
+  {
+    "endTime" : "2021-11-24 23:20",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218208
+  },
+  {
+    "endTime" : "2021-11-24 23:22",
+    "artistName" : "Djonga",
+    "trackName" : "Entre o Código da Espada e o Perfume da Rosa",
+    "msPlayed" : 128181
+  },
+  {
+    "endTime" : "2021-11-24 23:27",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256691
+  },
+  {
+    "endTime" : "2021-11-24 23:31",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 236443
+  },
+  {
+    "endTime" : "2021-11-24 23:35",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 279179
+  },
+  {
+    "endTime" : "2021-11-24 23:38",
+    "artistName" : "Djonga",
+    "trackName" : "Verdades Inventadas",
+    "msPlayed" : 173194
+  },
+  {
+    "endTime" : "2021-11-24 23:42",
+    "artistName" : "BK",
+    "trackName" : "Movimento",
+    "msPlayed" : 7422
+  },
+  {
+    "endTime" : "2021-11-24 23:42",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 109415
+  },
+  {
+    "endTime" : "2021-11-24 23:45",
+    "artistName" : "BK",
+    "trackName" : "Sigo na Sombra",
+    "msPlayed" : 195193
+  },
+  {
+    "endTime" : "2021-11-24 23:48",
+    "artistName" : "BK",
+    "trackName" : "C&R Interlúdio I",
+    "msPlayed" : 134442
+  },
+  {
+    "endTime" : "2021-11-24 23:53",
+    "artistName" : "BK",
+    "trackName" : "Quadros",
+    "msPlayed" : 309431
+  },
+  {
+    "endTime" : "2021-11-24 23:55",
+    "artistName" : "BK",
+    "trackName" : "O Que Sobra Disso Tudo",
+    "msPlayed" : 159937
+  },
+  {
+    "endTime" : "2021-11-25 00:15",
+    "artistName" : "BK",
+    "trackName" : "Visão Ampla",
+    "msPlayed" : 195698
+  },
+  {
+    "endTime" : "2021-11-25 00:18",
+    "artistName" : "BK",
+    "trackName" : "Caminhos",
+    "msPlayed" : 167944
+  },
+  {
+    "endTime" : "2021-11-25 13:52",
+    "artistName" : "BK",
+    "trackName" : "Castelos & Ruínas",
+    "msPlayed" : 191904
+  },
+  {
+    "endTime" : "2021-11-25 14:15",
+    "artistName" : "BK",
+    "trackName" : "Castelos & Ruínas",
+    "msPlayed" : 691
+  },
+  {
+    "endTime" : "2021-11-25 14:19",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 167183
+  },
+  {
+    "endTime" : "2021-11-25 14:22",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 203933
+  },
+  {
+    "endTime" : "2021-11-25 14:23",
+    "artistName" : "DUDA BEAT",
+    "trackName" : "Meu Pisêro",
+    "msPlayed" : 28986
+  },
+  {
+    "endTime" : "2021-11-25 14:27",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-11-25 14:30",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 183210
+  },
+  {
+    "endTime" : "2021-11-25 14:44",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 238026
+  },
+  {
+    "endTime" : "2021-11-25 14:47",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-11-25 14:51",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-11-25 14:55",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-11-25 14:58",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 186720
+  },
+  {
+    "endTime" : "2021-11-25 15:02",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-11-25 15:06",
+    "artistName" : "Djonga",
+    "trackName" : "Deus Dará (prod. Coyote Beatz)",
+    "msPlayed" : 228120
+  },
+  {
+    "endTime" : "2021-11-25 15:08",
+    "artistName" : "Djonga",
+    "trackName" : "Amr Sinto Falta da Nssa Ksa (prod. Renan Samam)",
+    "msPlayed" : 136551
+  },
+  {
+    "endTime" : "2021-11-25 15:11",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 204693
+  },
+  {
+    "endTime" : "2021-11-25 15:16",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-11-25 17:08",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Lui Lui",
+    "msPlayed" : 187476
+  },
+  {
+    "endTime" : "2021-11-25 17:16",
+    "artistName" : "Febem",
+    "trackName" : "JOVEM (feat. Smile)",
+    "msPlayed" : 456359
+  },
+  {
+    "endTime" : "2021-11-25 17:19",
+    "artistName" : "Febem",
+    "trackName" : "MÉXICO",
+    "msPlayed" : 176786
+  },
+  {
+    "endTime" : "2021-11-25 17:22",
+    "artistName" : "Febem",
+    "trackName" : "VAI PENSANDO",
+    "msPlayed" : 184138
+  },
+  {
+    "endTime" : "2021-11-25 17:27",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 260704
+  },
+  {
+    "endTime" : "2021-11-25 17:29",
+    "artistName" : "Febem",
+    "trackName" : "SEM TEMPO (feat. Jean Tassy)",
+    "msPlayed" : 117482
+  },
+  {
+    "endTime" : "2021-11-25 17:32",
+    "artistName" : "Febem",
+    "trackName" : "CRIME",
+    "msPlayed" : 188330
+  },
+  {
+    "endTime" : "2021-11-25 17:34",
+    "artistName" : "Febem",
+    "trackName" : "BALLA (feat. Kyan)",
+    "msPlayed" : 138058
+  },
+  {
+    "endTime" : "2021-11-25 17:38",
+    "artistName" : "Febem",
+    "trackName" : "ÁREA DE RISCO (feat. Tasha & Tracie)",
+    "msPlayed" : 230101
+  },
+  {
+    "endTime" : "2021-11-25 17:41",
+    "artistName" : "Febem",
+    "trackName" : "MARCHA (feat. Vulgo FK)",
+    "msPlayed" : 167629
+  },
+  {
+    "endTime" : "2021-11-25 17:43",
+    "artistName" : "Febem",
+    "trackName" : "OG",
+    "msPlayed" : 141360
+  },
+  {
+    "endTime" : "2021-11-25 17:47",
+    "artistName" : "Febem",
+    "trackName" : "ME PAGA (feat. Djonga)",
+    "msPlayed" : 219428
+  },
+  {
+    "endTime" : "2021-11-25 17:50",
+    "artistName" : "Febem",
+    "trackName" : "VAI PENSANDO",
+    "msPlayed" : 184138
+  },
+  {
+    "endTime" : "2021-11-25 17:54",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 204693
+  },
+  {
+    "endTime" : "2021-11-25 19:14",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Amarrou",
+    "msPlayed" : 330605
+  },
+  {
+    "endTime" : "2021-11-25 19:35",
+    "artistName" : "MC LORIN DA ZL",
+    "trackName" : "To Doidinho pra Ver Seu Piercing no Peito Pique Bh",
+    "msPlayed" : 164927
+  },
+  {
+    "endTime" : "2021-11-25 19:36",
+    "artistName" : "MOB79",
+    "trackName" : "Seguir Só",
+    "msPlayed" : 58444
+  },
+  {
+    "endTime" : "2021-11-25 19:38",
+    "artistName" : "Febem",
+    "trackName" : "JOVEM (feat. Smile)",
+    "msPlayed" : 141909
+  },
+  {
+    "endTime" : "2021-11-25 19:42",
+    "artistName" : "Febem",
+    "trackName" : "MÉXICO",
+    "msPlayed" : 218768
+  },
+  {
+    "endTime" : "2021-11-25 19:45",
+    "artistName" : "Febem",
+    "trackName" : "VAI PENSANDO",
+    "msPlayed" : 184138
+  },
+  {
+    "endTime" : "2021-11-25 19:47",
+    "artistName" : "Febem",
+    "trackName" : "SEM TEMPO (feat. Jean Tassy)",
+    "msPlayed" : 117482
+  },
+  {
+    "endTime" : "2021-11-25 19:50",
+    "artistName" : "Febem",
+    "trackName" : "CRIME",
+    "msPlayed" : 188330
+  },
+  {
+    "endTime" : "2021-11-25 23:04",
+    "artistName" : "Febem",
+    "trackName" : "BALLA (feat. Kyan)",
+    "msPlayed" : 138058
+  },
+  {
+    "endTime" : "2021-11-25 23:08",
+    "artistName" : "Febem",
+    "trackName" : "ÁREA DE RISCO (feat. Tasha & Tracie)",
+    "msPlayed" : 222181
+  },
+  {
+    "endTime" : "2021-11-25 23:08",
+    "artistName" : "Febem",
+    "trackName" : "OG",
+    "msPlayed" : 12100
+  },
+  {
+    "endTime" : "2021-11-25 23:08",
+    "artistName" : "Febem",
+    "trackName" : "MARCHA (feat. Vulgo FK)",
+    "msPlayed" : 1190
+  },
+  {
+    "endTime" : "2021-11-25 23:11",
+    "artistName" : "Febem",
+    "trackName" : "YIN YANG",
+    "msPlayed" : 184149
+  },
+  {
+    "endTime" : "2021-11-25 23:14",
+    "artistName" : "Febem",
+    "trackName" : "BALLA (feat. Kyan)",
+    "msPlayed" : 138058
+  },
+  {
+    "endTime" : "2021-11-25 23:17",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Amarrou",
+    "msPlayed" : 217367
+  },
+  {
+    "endTime" : "2021-11-25 23:21",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 204693
+  },
+  {
+    "endTime" : "2021-11-25 23:24",
+    "artistName" : "MOB79",
+    "trackName" : "Seguir Só",
+    "msPlayed" : 206864
+  },
+  {
+    "endTime" : "2021-11-25 23:27",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 194644
+  },
+  {
+    "endTime" : "2021-11-25 23:30",
+    "artistName" : "Febem",
+    "trackName" : "JOVEM (feat. Smile)",
+    "msPlayed" : 141909
+  },
+  {
+    "endTime" : "2021-11-25 23:34",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "SUV",
+    "msPlayed" : 240746
+  },
+  {
+    "endTime" : "2021-11-25 23:36",
+    "artistName" : "FBC",
+    "trackName" : "Baile de Ladrão",
+    "msPlayed" : 159626
+  },
+  {
+    "endTime" : "2021-11-25 23:39",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Sem Colete",
+    "msPlayed" : 160000
+  },
+  {
+    "endTime" : "2021-11-26 00:25",
+    "artistName" : "BK",
+    "trackName" : "Titãs",
+    "msPlayed" : 112548
+  },
+  {
+    "endTime" : "2021-11-26 00:55",
+    "artistName" : "Gloria Groove",
+    "trackName" : "LEILÃO",
+    "msPlayed" : 348989
+  },
+  {
+    "endTime" : "2021-11-26 00:58",
+    "artistName" : "Gloria Groove",
+    "trackName" : "BONEKINHA",
+    "msPlayed" : 168887
+  },
+  {
+    "endTime" : "2021-11-26 01:01",
+    "artistName" : "Urias",
+    "trackName" : "Foi Mal",
+    "msPlayed" : 165208
+  },
+  {
+    "endTime" : "2021-11-26 01:04",
+    "artistName" : "Lexa",
+    "trackName" : "Só Depois do Carnaval",
+    "msPlayed" : 166666
+  },
+  {
+    "endTime" : "2021-11-26 01:06",
+    "artistName" : "Pabllo Vittar",
+    "trackName" : "Ultra Som",
+    "msPlayed" : 114951
+  },
+  {
+    "endTime" : "2021-11-26 01:09",
+    "artistName" : "DUDA BEAT",
+    "trackName" : "Meu Pisêro",
+    "msPlayed" : 199813
+  },
+  {
+    "endTime" : "2021-11-26 01:12",
+    "artistName" : "Gloria Groove",
+    "trackName" : "YoYo",
+    "msPlayed" : 156521
+  },
+  {
+    "endTime" : "2021-11-26 01:14",
+    "artistName" : "Rebecca",
+    "trackName" : "Tô Preocupada (Calma Amiga) (feat. Anitta)",
+    "msPlayed" : 120000
+  },
+  {
+    "endTime" : "2021-11-26 01:16",
+    "artistName" : "Manu Gavassi",
+    "trackName" : "Tédio",
+    "msPlayed" : 160879
+  },
+  {
+    "endTime" : "2021-11-26 01:19",
+    "artistName" : "Luísa Sonza",
+    "trackName" : "VIP *-*",
+    "msPlayed" : 176400
+  },
+  {
+    "endTime" : "2021-11-26 01:22",
+    "artistName" : "IZA",
+    "trackName" : "Gueto",
+    "msPlayed" : 168000
+  },
+  {
+    "endTime" : "2021-11-26 01:25",
+    "artistName" : "Gloria Groove",
+    "trackName" : "Radar",
+    "msPlayed" : 156671
+  },
+  {
+    "endTime" : "2021-11-26 02:12",
+    "artistName" : "LUDMILLA",
+    "trackName" : "Rainha da Favela",
+    "msPlayed" : 138470
+  },
+  {
+    "endTime" : "2021-11-26 11:36",
+    "artistName" : "LUDMILLA",
+    "trackName" : "Rainha da Favela",
+    "msPlayed" : 22680
+  },
+  {
+    "endTime" : "2021-11-26 11:37",
+    "artistName" : "Liniker",
+    "trackName" : "Antes de Tudo",
+    "msPlayed" : 64079
+  },
+  {
+    "endTime" : "2021-11-26 12:06",
+    "artistName" : "Manu Gavassi",
+    "trackName" : "Reggaeton triste",
+    "msPlayed" : 122010
+  },
+  {
+    "endTime" : "2021-11-26 12:35",
+    "artistName" : "Jão",
+    "trackName" : "Acontece",
+    "msPlayed" : 1210
+  },
+  {
+    "endTime" : "2021-11-26 12:35",
+    "artistName" : "Gloria Groove",
+    "trackName" : "Bumbum de Ouro",
+    "msPlayed" : 2040
+  },
+  {
+    "endTime" : "2021-11-26 12:35",
+    "artistName" : "LUDMILLA",
+    "trackName" : "Medley Lud Session - Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano",
+    "msPlayed" : 1070
+  },
+  {
+    "endTime" : "2021-11-26 12:35",
+    "artistName" : "Luísa Sonza",
+    "trackName" : "caos / flor ***",
+    "msPlayed" : 68280
+  },
+  {
+    "endTime" : "2021-11-26 12:35",
+    "artistName" : "Pabllo Vittar",
+    "trackName" : "Triste com T",
+    "msPlayed" : 1540
+  },
+  {
+    "endTime" : "2021-11-26 12:38",
+    "artistName" : "Anitta",
+    "trackName" : "Combatchy (feat. MC Rebecca)",
+    "msPlayed" : 157600
+  },
+  {
+    "endTime" : "2021-11-26 12:38",
+    "artistName" : "Gloria Groove",
+    "trackName" : "A CAMINHADA",
+    "msPlayed" : 19999
+  },
+  {
+    "endTime" : "2021-11-26 12:41",
+    "artistName" : "Gloria Groove",
+    "trackName" : "LEILÃO",
+    "msPlayed" : 187619
+  },
+  {
+    "endTime" : "2021-11-26 12:44",
+    "artistName" : "Don L",
+    "trackName" : "(interlúdio 1)",
+    "msPlayed" : 29851
+  },
+  {
+    "endTime" : "2021-11-26 12:44",
+    "artistName" : "Gloria Groove",
+    "trackName" : "BONEKINHA",
+    "msPlayed" : 53020
+  },
+  {
+    "endTime" : "2021-11-26 12:49",
+    "artistName" : "Don L",
+    "trackName" : "vila rica",
+    "msPlayed" : 241452
+  },
+  {
+    "endTime" : "2021-11-26 12:54",
+    "artistName" : "Don L",
+    "trackName" : "a todo vapor",
+    "msPlayed" : 266475
+  },
+  {
+    "endTime" : "2021-11-26 12:56",
+    "artistName" : "Don L",
+    "trackName" : "pânico de nada",
+    "msPlayed" : 164166
+  },
+  {
+    "endTime" : "2021-11-26 12:59",
+    "artistName" : "Don L",
+    "trackName" : "enquanto recomeça",
+    "msPlayed" : 187504
+  },
+  {
+    "endTime" : "2021-11-26 13:03",
+    "artistName" : "Don L",
+    "trackName" : "pela boca",
+    "msPlayed" : 5380
+  },
+  {
+    "endTime" : "2021-11-26 13:03",
+    "artistName" : "Don L",
+    "trackName" : "primavera",
+    "msPlayed" : 198628
+  },
+  {
+    "endTime" : "2021-11-26 13:03",
+    "artistName" : "Gloria Groove",
+    "trackName" : "BONEKINHA",
+    "msPlayed" : 8770
+  },
+  {
+    "endTime" : "2021-11-26 13:06",
+    "artistName" : "LUDMILLA",
+    "trackName" : "Rainha da Favela",
+    "msPlayed" : 13012
+  },
+  {
+    "endTime" : "2021-11-26 13:06",
+    "artistName" : "Gloria Groove",
+    "trackName" : "BONEKINHA",
+    "msPlayed" : 168887
+  },
+  {
+    "endTime" : "2021-11-26 13:09",
+    "artistName" : "Luísa Sonza",
+    "trackName" : "VIP *-*",
+    "msPlayed" : 176400
+  },
+  {
+    "endTime" : "2021-11-26 13:12",
+    "artistName" : "DUDA BEAT",
+    "trackName" : "Meu Pisêro",
+    "msPlayed" : 199813
+  },
+  {
+    "endTime" : "2021-11-26 13:15",
+    "artistName" : "IZA",
+    "trackName" : "Gueto",
+    "msPlayed" : 168000
+  },
+  {
+    "endTime" : "2021-11-26 13:18",
+    "artistName" : "Gloria Groove",
+    "trackName" : "A CAMINHADA",
+    "msPlayed" : 177534
+  },
+  {
+    "endTime" : "2021-11-26 13:20",
+    "artistName" : "Lexa",
+    "trackName" : "Bruta",
+    "msPlayed" : 136888
+  },
+  {
+    "endTime" : "2021-11-26 13:23",
+    "artistName" : "Tassia Reis",
+    "trackName" : "Dollar Euro",
+    "msPlayed" : 173735
+  },
+  {
+    "endTime" : "2021-11-26 13:25",
+    "artistName" : "Rebecca",
+    "trackName" : "Tô Preocupada (Calma Amiga) (feat. Anitta)",
+    "msPlayed" : 105528
+  },
+  {
+    "endTime" : "2021-11-26 13:26",
+    "artistName" : "Johnny Hooker",
+    "trackName" : "Flutua",
+    "msPlayed" : 61870
+  },
+  {
+    "endTime" : "2021-11-26 13:35",
+    "artistName" : "Gloria Groove",
+    "trackName" : "A QUEDA",
+    "msPlayed" : 164610
+  },
+  {
+    "endTime" : "2021-11-26 13:35",
+    "artistName" : "Thiago Pantaleão",
+    "trackName" : "Te Deixo Crazy",
+    "msPlayed" : 2390
+  },
+  {
+    "endTime" : "2021-11-26 13:36",
+    "artistName" : "Lexa",
+    "trackName" : "Provocar",
+    "msPlayed" : 11420
+  },
+  {
+    "endTime" : "2021-11-26 13:39",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218282
+  },
+  {
+    "endTime" : "2021-11-26 13:41",
+    "artistName" : "Djonga",
+    "trackName" : "Entre o Código da Espada e o Perfume da Rosa",
+    "msPlayed" : 128213
+  },
+  {
+    "endTime" : "2021-11-26 13:46",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-11-26 13:50",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 236586
+  },
+  {
+    "endTime" : "2021-11-26 14:59",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 207656
+  },
+  {
+    "endTime" : "2021-11-26 14:59",
+    "artistName" : "Kyan",
+    "trackName" : "The Box Medley 2",
+    "msPlayed" : 590
+  },
+  {
+    "endTime" : "2021-11-26 15:04",
+    "artistName" : "Kyan",
+    "trackName" : "Arrasta Pra China",
+    "msPlayed" : 184764
+  },
+  {
+    "endTime" : "2021-11-26 15:06",
+    "artistName" : "Borges",
+    "trackName" : "Contando Dinheiro",
+    "msPlayed" : 174303
+  },
+  {
+    "endTime" : "2021-11-26 15:10",
+    "artistName" : "Kyan",
+    "trackName" : "Jeito Bandida",
+    "msPlayed" : 199726
+  },
+  {
+    "endTime" : "2021-11-26 15:13",
+    "artistName" : "Kyan",
+    "trackName" : "Preto e Dinheiro",
+    "msPlayed" : 197380
+  },
+  {
+    "endTime" : "2021-11-26 21:50",
+    "artistName" : "Young Mascka",
+    "trackName" : "Drip de Negão 2",
+    "msPlayed" : 26014
+  },
+  {
+    "endTime" : "2021-11-29 13:12",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218282
+  },
+  {
+    "endTime" : "2021-11-29 13:15",
+    "artistName" : "Djonga",
+    "trackName" : "Entre o Código da Espada e o Perfume da Rosa",
+    "msPlayed" : 128213
+  },
+  {
+    "endTime" : "2021-11-29 13:19",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-11-29 13:23",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 236586
+  },
+  {
+    "endTime" : "2021-11-29 13:27",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 279253
+  },
+  {
+    "endTime" : "2021-11-29 13:30",
+    "artistName" : "Djonga",
+    "trackName" : "Verdades Inventadas",
+    "msPlayed" : 173397
+  },
+  {
+    "endTime" : "2021-11-29 13:33",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175317
+  },
+  {
+    "endTime" : "2021-11-29 13:36",
+    "artistName" : "Djonga",
+    "trackName" : "Heresia",
+    "msPlayed" : 167168
+  },
+  {
+    "endTime" : "2021-11-29 13:51",
+    "artistName" : "Djonga",
+    "trackName" : "Irmãos de Arma, Irmãos de Luta",
+    "msPlayed" : 131669
+  },
+  {
+    "endTime" : "2021-11-29 13:54",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 223892
+  },
+  {
+    "endTime" : "2021-11-29 13:59",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Lui Lui",
+    "msPlayed" : 281223
+  },
+  {
+    "endTime" : "2021-11-29 14:00",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 38806
+  },
+  {
+    "endTime" : "2021-11-29 14:04",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-11-29 14:09",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 287134
+  },
+  {
+    "endTime" : "2021-11-29 14:09",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 4639
+  },
+  {
+    "endTime" : "2021-11-29 14:12",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 183210
+  },
+  {
+    "endTime" : "2021-11-29 14:16",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 92439
+  },
+  {
+    "endTime" : "2021-11-29 14:19",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 183210
+  },
+  {
+    "endTime" : "2021-11-29 14:23",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 238026
+  },
+  {
+    "endTime" : "2021-11-29 14:26",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-11-29 14:30",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-11-29 14:44",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 326052
+  },
+  {
+    "endTime" : "2021-11-29 14:48",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-11-29 14:52",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-11-29 14:55",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-11-29 14:59",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-11-29 15:03",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-11-29 15:08",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 145951
+  },
+  {
+    "endTime" : "2021-11-29 18:15",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 9918
+  },
+  {
+    "endTime" : "2021-11-29 18:15",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-11-29 18:18",
+    "artistName" : "Djonga",
+    "trackName" : "Nós",
+    "msPlayed" : 193799
+  },
+  {
+    "endTime" : "2021-11-29 19:00",
+    "artistName" : "Djonga",
+    "trackName" : "Ó Quem Chega",
+    "msPlayed" : 222219
+  },
+  {
+    "endTime" : "2021-11-29 19:18",
+    "artistName" : "Djonga",
+    "trackName" : "Xapralá",
+    "msPlayed" : 95291
+  },
+  {
+    "endTime" : "2021-11-29 19:21",
+    "artistName" : "Djonga",
+    "trackName" : "Me dá a Mão",
+    "msPlayed" : 215995
+  },
+  {
+    "endTime" : "2021-11-29 19:22",
+    "artistName" : "Djonga",
+    "trackName" : "Vírgula",
+    "msPlayed" : 51714
+  },
+  {
+    "endTime" : "2021-11-29 19:24",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 96410
+  },
+  {
+    "endTime" : "2021-11-29 19:29",
+    "artistName" : "Borges",
+    "trackName" : "Traidores",
+    "msPlayed" : 348868
+  },
+  {
+    "endTime" : "2021-11-29 19:30",
+    "artistName" : "Kyan",
+    "trackName" : "The Box Medley 2",
+    "msPlayed" : 18320
+  },
+  {
+    "endTime" : "2021-11-29 19:41",
+    "artistName" : "Borges",
+    "trackName" : "Proibidão 2021",
+    "msPlayed" : 167410
+  },
+  {
+    "endTime" : "2021-11-29 19:46",
+    "artistName" : "BIN",
+    "trackName" : "Quase uma Semana",
+    "msPlayed" : 259672
+  },
+  {
+    "endTime" : "2021-11-29 19:50",
+    "artistName" : "Borges",
+    "trackName" : "Proibidão 2021",
+    "msPlayed" : 261639
+  },
+  {
+    "endTime" : "2021-11-29 19:53",
+    "artistName" : "Mainstreet",
+    "trackName" : "Assault (Angra)",
+    "msPlayed" : 155248
+  },
+  {
+    "endTime" : "2021-11-29 19:55",
+    "artistName" : "Borges",
+    "trackName" : "Contando Dinheiro",
+    "msPlayed" : 174303
+  },
+  {
+    "endTime" : "2021-11-29 20:01",
+    "artistName" : "Borges",
+    "trackName" : "Ak do Flamengo",
+    "msPlayed" : 323620
+  },
+  {
+    "endTime" : "2021-11-29 20:03",
+    "artistName" : "BIN",
+    "trackName" : "Uva",
+    "msPlayed" : 150000
+  },
+  {
+    "endTime" : "2021-11-29 20:06",
+    "artistName" : "Borges",
+    "trackName" : "Seu Lugar",
+    "msPlayed" : 162875
+  },
+  {
+    "endTime" : "2021-11-29 20:09",
+    "artistName" : "Borges",
+    "trackName" : "Aonde Eu Sou Cria",
+    "msPlayed" : 154909
+  },
+  {
+    "endTime" : "2021-11-29 20:09",
+    "artistName" : "Orochi",
+    "trackName" : "Se O Mundo Acabasse Hoje",
+    "msPlayed" : 48101
+  },
+  {
+    "endTime" : "2021-11-29 20:10",
+    "artistName" : "Borges",
+    "trackName" : "Seu Lugar",
+    "msPlayed" : 1240
+  },
+  {
+    "endTime" : "2021-11-29 20:10",
+    "artistName" : "A Banca Records",
+    "trackName" : "Reunião Dos Cria",
+    "msPlayed" : 10400
+  },
+  {
+    "endTime" : "2021-11-29 20:13",
+    "artistName" : "Borges",
+    "trackName" : "Sodoma e Gomorra",
+    "msPlayed" : 223865
+  },
+  {
+    "endTime" : "2021-11-29 20:17",
+    "artistName" : "Borges",
+    "trackName" : "Traidores",
+    "msPlayed" : 198018
+  },
+  {
+    "endTime" : "2021-11-29 20:19",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Cheat Code",
+    "msPlayed" : 360
+  },
+  {
+    "endTime" : "2021-11-29 20:19",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Cheat Code",
+    "msPlayed" : 1160
+  },
+  {
+    "endTime" : "2021-11-29 20:19",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Rouff",
+    "msPlayed" : 1150
+  },
+  {
+    "endTime" : "2021-11-29 20:19",
+    "artistName" : "Borges",
+    "trackName" : "Contando Dinheiro",
+    "msPlayed" : 149856
+  },
+  {
+    "endTime" : "2021-11-29 20:19",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Wanna Be's (intro)",
+    "msPlayed" : 6200
+  },
+  {
+    "endTime" : "2021-11-29 20:19",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Amarrou",
+    "msPlayed" : 2240
+  },
+  {
+    "endTime" : "2021-11-29 20:19",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Lui Lui",
+    "msPlayed" : 2800
+  },
+  {
+    "endTime" : "2021-11-29 20:23",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Amarrou",
+    "msPlayed" : 217367
+  },
+  {
+    "endTime" : "2021-11-29 22:41",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Cheat Code",
+    "msPlayed" : 166302
+  },
+  {
+    "endTime" : "2021-11-29 22:57",
+    "artistName" : "Drake",
+    "trackName" : "Look What You've Done",
+    "msPlayed" : 301960
+  },
+  {
+    "endTime" : "2021-11-29 22:59",
+    "artistName" : "Tyler, The Creator",
+    "trackName" : "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
+    "msPlayed" : 121572
+  },
+  {
+    "endTime" : "2021-11-29 23:03",
+    "artistName" : "Drake",
+    "trackName" : "Feel No Ways",
+    "msPlayed" : 240653
+  },
+  {
+    "endTime" : "2021-11-29 23:26",
+    "artistName" : "Miguel",
+    "trackName" : "Girl With The Tattoo Enter.lewd",
+    "msPlayed" : 1140
+  },
+  {
+    "endTime" : "2021-11-29 23:26",
+    "artistName" : "Frank Ocean",
+    "trackName" : "Ivy",
+    "msPlayed" : 720
+  },
+  {
+    "endTime" : "2021-11-29 23:26",
+    "artistName" : "Brent Faiyaz",
+    "trackName" : "Clouded",
+    "msPlayed" : 2653
+  },
+  {
+    "endTime" : "2021-11-29 23:27",
+    "artistName" : "Brent Faiyaz",
+    "trackName" : "Fuck The World (Summer in London)",
+    "msPlayed" : 8300
+  },
+  {
+    "endTime" : "2021-11-29 23:30",
+    "artistName" : "Drake",
+    "trackName" : "Chicago Freestyle (feat. Giveon)",
+    "msPlayed" : 220487
+  },
+  {
+    "endTime" : "2021-11-29 23:37",
+    "artistName" : "BROCKHAMPTON",
+    "trackName" : "GOLD",
+    "msPlayed" : 406852
+  },
+  {
+    "endTime" : "2021-11-29 23:40",
+    "artistName" : "FBC",
+    "trackName" : "Baile de Ladrão",
+    "msPlayed" : 159626
+  },
+  {
+    "endTime" : "2021-11-29 23:43",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 204693
+  },
+  {
+    "endTime" : "2021-11-29 23:47",
+    "artistName" : "Gucci Mane",
+    "trackName" : "BiPolar (feat. Quavo)",
+    "msPlayed" : 214610
+  },
+  {
+    "endTime" : "2021-11-29 23:49",
+    "artistName" : "Frank Ocean",
+    "trackName" : "In My Room",
+    "msPlayed" : 133680
+  },
+  {
+    "endTime" : "2021-11-29 23:53",
+    "artistName" : "BADBADNOTGOOD",
+    "trackName" : "In Your Eyes",
+    "msPlayed" : 247054
+  },
+  {
+    "endTime" : "2021-11-29 23:58",
+    "artistName" : "Mac Miller",
+    "trackName" : "Woods",
+    "msPlayed" : 286386
+  },
+  {
+    "endTime" : "2021-11-30 00:01",
+    "artistName" : "Young Thug",
+    "trackName" : "Hop Off A Jet (feat. Travis Scott)",
+    "msPlayed" : 174066
+  },
+  {
+    "endTime" : "2021-11-30 00:04",
+    "artistName" : "THE SCOTTS",
+    "trackName" : "THE SCOTTS",
+    "msPlayed" : 165977
+  },
+  {
+    "endTime" : "2021-11-30 00:07",
+    "artistName" : "The Weeknd",
+    "trackName" : "Heartless",
+    "msPlayed" : 198266
+  },
+  {
+    "endTime" : "2021-11-30 00:40",
+    "artistName" : "EARTHGANG",
+    "trackName" : "Proud Of U (feat. Young Thug)",
+    "msPlayed" : 194066
+  },
+  {
+    "endTime" : "2021-11-30 00:43",
+    "artistName" : "Rich Brian",
+    "trackName" : "BALI",
+    "msPlayed" : 1740
+  },
+  {
+    "endTime" : "2021-11-30 00:43",
+    "artistName" : "Westside Gunn",
+    "trackName" : "327 (feat. Tyler, The Creator & Billie Essco)",
+    "msPlayed" : 1680
+  },
+  {
+    "endTime" : "2021-11-30 00:43",
+    "artistName" : "Playboi Carti",
+    "trackName" : "@ MEH",
+    "msPlayed" : 166799
+  },
+  {
+    "endTime" : "2021-11-30 00:47",
+    "artistName" : "Gorillaz",
+    "trackName" : "Aries (feat. Peter Hook and Georgia)",
+    "msPlayed" : 253333
+  },
+  {
+    "endTime" : "2021-11-30 00:49",
+    "artistName" : "BK",
+    "trackName" : "Deus do Furdunço",
+    "msPlayed" : 148738
+  },
+  {
+    "endTime" : "2021-11-30 00:53",
+    "artistName" : "callmestevieray",
+    "trackName" : "Nothing But Love",
+    "msPlayed" : 227441
+  },
+  {
+    "endTime" : "2021-11-30 00:56",
+    "artistName" : "Dua Lipa",
+    "trackName" : "Don't Start Now",
+    "msPlayed" : 183290
+  },
+  {
+    "endTime" : "2021-11-30 01:02",
+    "artistName" : "Yung Joc",
+    "trackName" : "It's Goin' Down (feat. Nitti)",
+    "msPlayed" : 354035
+  },
+  {
+    "endTime" : "2021-11-30 01:06",
+    "artistName" : "Tuyo",
+    "trackName" : "Eu Te Avisei",
+    "msPlayed" : 237479
+  },
+  {
+    "endTime" : "2021-11-30 01:11",
+    "artistName" : "Daniel Caesar",
+    "trackName" : "Get You (feat. Kali Uchis)",
+    "msPlayed" : 278179
+  },
+  {
+    "endTime" : "2021-11-30 01:14",
+    "artistName" : "Kanye West",
+    "trackName" : "Heartless",
+    "msPlayed" : 211000
+  },
+  {
+    "endTime" : "2021-11-30 01:18",
+    "artistName" : "Drake",
+    "trackName" : "Toosie Slide",
+    "msPlayed" : 247058
+  },
+  {
+    "endTime" : "2021-11-30 01:21",
+    "artistName" : "TOKYO’S REVENGE",
+    "trackName" : "GOODMORNINGTOKYO!",
+    "msPlayed" : 186937
+  },
+  {
+    "endTime" : "2021-11-30 01:25",
+    "artistName" : "Lil Uzi Vert",
+    "trackName" : "Prices",
+    "msPlayed" : 233333
+  },
+  {
+    "endTime" : "2021-11-30 01:29",
+    "artistName" : "BENEE",
+    "trackName" : "Supalonely",
+    "msPlayed" : 223480
+  },
+  {
+    "endTime" : "2021-11-30 01:32",
+    "artistName" : "Don Toliver",
+    "trackName" : "No Photos",
+    "msPlayed" : 175296
+  },
+  {
+    "endTime" : "2021-11-30 01:35",
+    "artistName" : "Lil Uzi Vert",
+    "trackName" : "Lo Mein",
+    "msPlayed" : 195299
+  },
+  {
+    "endTime" : "2021-11-30 01:45",
+    "artistName" : "YBN Nahmir",
+    "trackName" : "2 Seater (feat. G-Eazy & Offset)",
+    "msPlayed" : 229806
+  },
+  {
+    "endTime" : "2021-11-30 01:48",
+    "artistName" : "Megan Thee Stallion",
+    "trackName" : "Savage",
+    "msPlayed" : 155497
+  },
+  {
+    "endTime" : "2021-11-30 01:51",
+    "artistName" : "Cuco",
+    "trackName" : "Dontmakemefallinlove",
+    "msPlayed" : 207692
+  },
+  {
+    "endTime" : "2021-11-30 01:54",
+    "artistName" : "Don Toliver",
+    "trackName" : "No Idea",
+    "msPlayed" : 154424
+  },
+  {
+    "endTime" : "2021-11-30 01:56",
+    "artistName" : "Don Toliver",
+    "trackName" : "Cardigan",
+    "msPlayed" : 158708
+  },
+  {
+    "endTime" : "2021-11-30 01:59",
+    "artistName" : "Don Toliver",
+    "trackName" : "After Party",
+    "msPlayed" : 167915
+  },
+  {
+    "endTime" : "2021-11-30 02:02",
+    "artistName" : "BK",
+    "trackName" : "Caminhos",
+    "msPlayed" : 167999
+  },
+  {
+    "endTime" : "2021-11-30 02:06",
+    "artistName" : "Roddy Ricch",
+    "trackName" : "Down Below",
+    "msPlayed" : 224002
+  },
+  {
+    "endTime" : "2021-11-30 02:08",
+    "artistName" : "24kGoldn",
+    "trackName" : "CITY OF ANGELS",
+    "msPlayed" : 112493
+  },
+  {
+    "endTime" : "2021-11-30 02:11",
+    "artistName" : "Lil Uzi Vert",
+    "trackName" : "P2",
+    "msPlayed" : 234626
+  },
+  {
+    "endTime" : "2021-11-30 02:16",
+    "artistName" : "Froid",
+    "trackName" : "Faz Fila (Freestyle)",
+    "msPlayed" : 246303
+  },
+  {
+    "endTime" : "2021-11-30 02:18",
+    "artistName" : "Terno Rei",
+    "trackName" : "Pivete",
+    "msPlayed" : 154000
+  },
+  {
+    "endTime" : "2021-11-30 02:20",
+    "artistName" : "Dfideliz",
+    "trackName" : "Essa Noite Eu Bebi Amor",
+    "msPlayed" : 135278
+  },
+  {
+    "endTime" : "2021-11-30 02:24",
+    "artistName" : "Jé Santiago",
+    "trackName" : "Diñero",
+    "msPlayed" : 192537
+  },
+  {
+    "endTime" : "2021-11-30 02:26",
+    "artistName" : "Derek",
+    "trackName" : "Fé Fé Fé",
+    "msPlayed" : 146598
+  },
+  {
+    "endTime" : "2021-11-30 02:29",
+    "artistName" : "Derek",
+    "trackName" : "No Cap",
+    "msPlayed" : 170669
+  },
+  {
+    "endTime" : "2021-11-30 02:31",
+    "artistName" : "Derek",
+    "trackName" : "Lounge",
+    "msPlayed" : 118117
+  },
+  {
+    "endTime" : "2021-11-30 02:38",
+    "artistName" : "Tuyo",
+    "trackName" : "Terminal",
+    "msPlayed" : 141974
+  },
+  {
+    "endTime" : "2021-11-30 12:47",
+    "artistName" : "Tuyo",
+    "trackName" : "Terminal",
+    "msPlayed" : 237860
+  },
+  {
+    "endTime" : "2021-11-30 12:49",
+    "artistName" : "Tuyo",
+    "trackName" : "Terminal",
+    "msPlayed" : 1150
+  },
+  {
+    "endTime" : "2021-11-30 12:49",
+    "artistName" : "Kanye West",
+    "trackName" : "FML",
+    "msPlayed" : 530
+  },
+  {
+    "endTime" : "2021-11-30 12:49",
+    "artistName" : "Kanye West",
+    "trackName" : "FML",
+    "msPlayed" : 6863
+  },
+  {
+    "endTime" : "2021-11-30 12:49",
+    "artistName" : "Fresno",
+    "trackName" : "INV011: E VEJA SÓ (feat. Jup do Bairro)",
+    "msPlayed" : 119296
+  },
+  {
+    "endTime" : "2021-11-30 12:52",
+    "artistName" : "Febem",
+    "trackName" : "RUNNING (feat. Ashira)",
+    "msPlayed" : 135663
+  },
+  {
+    "endTime" : "2021-11-30 12:54",
+    "artistName" : "Kanye West",
+    "trackName" : "Freestyle 4",
+    "msPlayed" : 123386
+  },
+  {
+    "endTime" : "2021-11-30 12:59",
+    "artistName" : "Mac Miller",
+    "trackName" : "Good News",
+    "msPlayed" : 328639
+  },
+  {
+    "endTime" : "2021-11-30 13:06",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 390545
+  },
+  {
+    "endTime" : "2021-11-30 13:12",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 380244
+  },
+  {
+    "endTime" : "2021-11-30 13:41",
+    "artistName" : "Brasil Grime Show",
+    "trackName" : "Brasil Grime Show: DINIBOY, FEBEM & FLEEZUS",
+    "msPlayed" : 1413555
+  },
+  {
+    "endTime" : "2021-11-30 14:04",
+    "artistName" : "Brasil Grime Show",
+    "trackName" : "Brasil Grime Show: ANTCONSTANTINO, DINIBOY, KBRUM, MARCÃO BAIXADA, NAPÔ & YAS WERNECK",
+    "msPlayed" : 130614
+  },
+  {
+    "endTime" : "2021-11-30 14:07",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Flo Jo",
+    "msPlayed" : 224200
+  },
+  {
+    "endTime" : "2021-11-30 14:11",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Foda",
+    "msPlayed" : 212320
+  },
+  {
+    "endTime" : "2021-11-30 14:15",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Flo Jo",
+    "msPlayed" : 234032
+  },
+  {
+    "endTime" : "2021-11-30 14:29",
+    "artistName" : "Dreamville",
+    "trackName" : "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
+    "msPlayed" : 140127
+  },
+  {
+    "endTime" : "2021-11-30 14:33",
+    "artistName" : "Nill",
+    "trackName" : "Regras da Loja",
+    "msPlayed" : 230831
+  },
+  {
+    "endTime" : "2021-11-30 17:35",
+    "artistName" : "Nill",
+    "trackName" : "Control",
+    "msPlayed" : 318918
+  },
+  {
+    "endTime" : "2021-11-30 17:37",
+    "artistName" : "Nill",
+    "trackName" : "Nego Drama Pt. II",
+    "msPlayed" : 166000
+  },
+  {
+    "endTime" : "2021-11-30 17:38",
+    "artistName" : "Nill",
+    "trackName" : "Minha Mulher Acha Que Eu Sou o Brad Pitt",
+    "msPlayed" : 40800
+  },
+  {
+    "endTime" : "2021-11-30 17:41",
+    "artistName" : "Nill",
+    "trackName" : "Nego Drama Pt. II",
+    "msPlayed" : 166000
+  },
+  {
+    "endTime" : "2021-11-30 17:45",
+    "artistName" : "Nill",
+    "trackName" : "Minha Mulher Acha Que Eu Sou o Brad Pitt",
+    "msPlayed" : 244000
+  },
+  {
+    "endTime" : "2021-11-30 17:47",
+    "artistName" : "Nill",
+    "trackName" : "Blu",
+    "msPlayed" : 130360
+  },
+  {
+    "endTime" : "2021-11-30 17:50",
+    "artistName" : "Nill",
+    "trackName" : "Lógos",
+    "msPlayed" : 148818
+  },
+  {
+    "endTime" : "2021-11-30 17:53",
+    "artistName" : "Nill",
+    "trackName" : "Regras da Loja",
+    "msPlayed" : 230831
+  },
+  {
+    "endTime" : "2021-11-30 17:57",
+    "artistName" : "Nill",
+    "trackName" : "Bullet's",
+    "msPlayed" : 236086
+  },
+  {
+    "endTime" : "2021-11-30 18:00",
+    "artistName" : "Nill",
+    "trackName" : "Descendente de Yasuke",
+    "msPlayed" : 160361
+  },
+  {
+    "endTime" : "2021-11-30 18:04",
+    "artistName" : "Nill",
+    "trackName" : "Toys",
+    "msPlayed" : 226495
+  },
+  {
+    "endTime" : "2021-11-30 18:07",
+    "artistName" : "Nill",
+    "trackName" : "Jive",
+    "msPlayed" : 180998
+  },
+  {
+    "endTime" : "2021-11-30 18:10",
+    "artistName" : "Nill",
+    "trackName" : "Mulher do Futuro Só Compra Online",
+    "msPlayed" : 205333
+  },
+  {
+    "endTime" : "2021-11-30 18:13",
+    "artistName" : "Nill",
+    "trackName" : "Embalagens",
+    "msPlayed" : 176326
+  },
+  {
+    "endTime" : "2021-11-30 18:17",
+    "artistName" : "Nill",
+    "trackName" : "Siri",
+    "msPlayed" : 232271
+  },
+  {
+    "endTime" : "2021-11-30 18:19",
+    "artistName" : "Nill",
+    "trackName" : "Não Me Coloque na Sua Loja",
+    "msPlayed" : 143459
+  },
+  {
+    "endTime" : "2021-11-30 18:21",
+    "artistName" : "Nill",
+    "trackName" : "Servir Sempre",
+    "msPlayed" : 89047
+  },
+  {
+    "endTime" : "2021-11-30 18:23",
+    "artistName" : "Nill",
+    "trackName" : "Sessão 26",
+    "msPlayed" : 150673
+  },
+  {
+    "endTime" : "2021-11-30 19:39",
+    "artistName" : "Febem",
+    "trackName" : "CRIME",
+    "msPlayed" : 109980
+  },
+  {
+    "endTime" : "2021-11-30 19:39",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 1360
+  },
+  {
+    "endTime" : "2021-11-30 20:16",
+    "artistName" : "Nill",
+    "trackName" : "Modulation",
+    "msPlayed" : 193570
+  },
+  {
+    "endTime" : "2021-11-30 20:19",
+    "artistName" : "Shawlin",
+    "trackName" : "Dívida De Gratidão",
+    "msPlayed" : 2220
+  },
+  {
+    "endTime" : "2021-11-30 20:19",
+    "artistName" : "Putodiparis",
+    "trackName" : "Chico Buarque Interlúdio",
+    "msPlayed" : 12119
+  },
+  {
+    "endTime" : "2021-11-30 20:19",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Sem Colete",
+    "msPlayed" : 850
+  },
+  {
+    "endTime" : "2021-11-30 20:22",
+    "artistName" : "Febem",
+    "trackName" : "MÉXICO",
+    "msPlayed" : 165408
+  },
+  {
+    "endTime" : "2021-11-30 20:24",
+    "artistName" : "Nill",
+    "trackName" : "Meliodas",
+    "msPlayed" : 125142
+  },
+  {
+    "endTime" : "2021-11-30 20:28",
+    "artistName" : "LEALL",
+    "trackName" : "Moda Síria Anti-Adidas",
+    "msPlayed" : 208695
+  },
+  {
+    "endTime" : "2021-12-01 01:31",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Bonde da Fumaça (feat. Murda Beatz)",
+    "msPlayed" : 236764
+  },
+  {
+    "endTime" : "2021-12-01 01:33",
+    "artistName" : "Baco Exu do Blues",
+    "trackName" : "Tardes Que Nunca Acabam",
+    "msPlayed" : 85898
+  },
+  {
+    "endTime" : "2021-12-01 02:09",
+    "artistName" : "Coruja Bc1",
+    "trackName" : "Brasil Futurista",
+    "msPlayed" : 1340
+  },
+  {
+    "endTime" : "2021-12-01 11:58",
+    "artistName" : "Coruja Bc1",
+    "trackName" : "Brasil Futurista",
+    "msPlayed" : 2130
+  },
+  {
+    "endTime" : "2021-12-01 12:02",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-12-01 12:05",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 183210
+  },
+  {
+    "endTime" : "2021-12-01 14:23",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 210533
+  },
+  {
+    "endTime" : "2021-12-01 14:26",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 183210
+  },
+  {
+    "endTime" : "2021-12-01 14:30",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 238026
+  },
+  {
+    "endTime" : "2021-12-01 14:33",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-12-01 14:37",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-12-01 14:40",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-12-01 14:43",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 186720
+  },
+  {
+    "endTime" : "2021-12-01 14:47",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-12-01 14:50",
+    "artistName" : "Djonga",
+    "trackName" : "Amr Sinto Falta da Nssa Ksa (prod. Renan Samam)",
+    "msPlayed" : 1960
+  },
+  {
+    "endTime" : "2021-12-01 14:50",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 3220
+  },
+  {
+    "endTime" : "2021-12-01 14:50",
+    "artistName" : "Djonga",
+    "trackName" : "Deus Dará (prod. Coyote Beatz)",
+    "msPlayed" : 192789
+  },
+  {
+    "endTime" : "2021-12-01 16:33",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 131650
+  },
+  {
+    "endTime" : "2021-12-01 16:34",
+    "artistName" : "Tyler, The Creator",
+    "trackName" : "CORSO",
+    "msPlayed" : 5900
+  },
+  {
+    "endTime" : "2021-12-01 16:50",
+    "artistName" : "Jé Santiago",
+    "trackName" : "Jack Bauer",
+    "msPlayed" : 47600
+  },
+  {
+    "endTime" : "2021-12-01 18:20",
+    "artistName" : "Maxo Kream",
+    "trackName" : "BIG PERSONA (feat. Tyler, The Creator)",
+    "msPlayed" : 151750
+  },
+  {
+    "endTime" : "2021-12-01 18:25",
+    "artistName" : "MC Hariel",
+    "trackName" : "Ilusão (Cracolândia)",
+    "msPlayed" : 324000
+  },
+  {
+    "endTime" : "2021-12-01 18:28",
+    "artistName" : "MC Hariel",
+    "trackName" : "Maçã Verde",
+    "msPlayed" : 164307
+  },
+  {
+    "endTime" : "2021-12-01 18:31",
+    "artistName" : "Matuê",
+    "trackName" : "Quer Voar",
+    "msPlayed" : 187636
+  },
+  {
+    "endTime" : "2021-12-01 18:34",
+    "artistName" : "Teto",
+    "trackName" : "M4",
+    "msPlayed" : 170000
+  },
+  {
+    "endTime" : "2021-12-01 18:36",
+    "artistName" : "Mc Poze do Rodo",
+    "trackName" : "Vida Louca",
+    "msPlayed" : 155675
+  },
+  {
+    "endTime" : "2021-12-01 18:41",
+    "artistName" : "Sabotage",
+    "trackName" : "Mun Rá",
+    "msPlayed" : 275373
+  },
+  {
+    "endTime" : "2021-12-01 18:44",
+    "artistName" : "Costa Gold",
+    "trackName" : "The Cypher Deffect 2",
+    "msPlayed" : 3050
+  },
+  {
+    "endTime" : "2021-12-01 18:44",
+    "artistName" : "Teto",
+    "trackName" : "Paypal",
+    "msPlayed" : 153686
+  },
+  {
+    "endTime" : "2021-12-01 18:44",
+    "artistName" : "Matuê",
+    "trackName" : "Máquina do Tempo",
+    "msPlayed" : 1080
+  },
+  {
+    "endTime" : "2021-12-01 18:48",
+    "artistName" : "Mc Davi",
+    "trackName" : "Bipolar",
+    "msPlayed" : 276480
+  },
+  {
+    "endTime" : "2021-12-01 18:50",
+    "artistName" : "DJ Matt D",
+    "trackName" : "Tipo Gringa",
+    "msPlayed" : 114143
+  },
+  {
+    "endTime" : "2021-12-01 18:52",
+    "artistName" : "Japa",
+    "trackName" : "Dejavu",
+    "msPlayed" : 114686
+  },
+  {
+    "endTime" : "2021-12-01 18:56",
+    "artistName" : "Xamã",
+    "trackName" : "Luxúria",
+    "msPlayed" : 224510
+  },
+  {
+    "endTime" : "2021-12-01 18:58",
+    "artistName" : "Matuê",
+    "trackName" : "777-666",
+    "msPlayed" : 164000
+  },
+  {
+    "endTime" : "2021-12-01 19:01",
+    "artistName" : "Pk",
+    "trackName" : "Quando a vontade bater (Participação especial de PK Delas)",
+    "msPlayed" : 166400
+  },
+  {
+    "endTime" : "2021-12-01 19:03",
+    "artistName" : "NGC Daddy",
+    "trackName" : "Glockada",
+    "msPlayed" : 121678
+  },
+  {
+    "endTime" : "2021-12-01 19:06",
+    "artistName" : "MC Teteu",
+    "trackName" : "Faz a Pose",
+    "msPlayed" : 135732
+  },
+  {
+    "endTime" : "2021-12-01 19:08",
+    "artistName" : "MD Chefe",
+    "trackName" : "Rei Lacoste",
+    "msPlayed" : 152000
+  },
+  {
+    "endTime" : "2021-12-01 19:10",
+    "artistName" : "Costa Gold",
+    "trackName" : "Se Essa Bunda",
+    "msPlayed" : 82478
+  },
+  {
+    "endTime" : "2021-12-01 19:16",
+    "artistName" : "Racionais MC's",
+    "trackName" : "Negro Drama",
+    "msPlayed" : 411866
+  },
+  {
+    "endTime" : "2021-12-01 19:17",
+    "artistName" : "Jovem Dex",
+    "trackName" : "Nav",
+    "msPlayed" : 20343
+  },
+  {
+    "endTime" : "2021-12-01 19:26",
+    "artistName" : "MC Hariel",
+    "trackName" : "Hit do Ano - O Peso da Luta",
+    "msPlayed" : 217950
+  },
+  {
+    "endTime" : "2021-12-01 19:27",
+    "artistName" : "Greg Ferreira",
+    "trackName" : "L.A Freestyle",
+    "msPlayed" : 22370
+  },
+  {
+    "endTime" : "2021-12-01 19:31",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set do Dj Pedro 3.0",
+    "msPlayed" : 268000
+  },
+  {
+    "endTime" : "2021-12-01 19:37",
+    "artistName" : "Tim Maia",
+    "trackName" : "Me Dê Motivo",
+    "msPlayed" : 335021
+  },
+  {
+    "endTime" : "2021-12-01 20:07",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 4000
+  },
+  {
+    "endTime" : "2021-12-01 20:12",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set do Dj Pedro 3.0",
+    "msPlayed" : 268000
+  },
+  {
+    "endTime" : "2021-12-01 20:17",
+    "artistName" : "Tim Maia",
+    "trackName" : "Me Dê Motivo",
+    "msPlayed" : 335021
+  },
+  {
+    "endTime" : "2021-12-01 20:20",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 117576
+  },
+  {
+    "endTime" : "2021-12-01 20:24",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set do Dj Pedro 3.0",
+    "msPlayed" : 268000
+  },
+  {
+    "endTime" : "2021-12-01 20:25",
+    "artistName" : "Tim Maia",
+    "trackName" : "Me Dê Motivo",
+    "msPlayed" : 19783
+  },
+  {
+    "endTime" : "2021-12-01 22:38",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set do Dj Pedro 3.0",
+    "msPlayed" : 650790
+  },
+  {
+    "endTime" : "2021-12-01 22:44",
+    "artistName" : "Tim Maia",
+    "trackName" : "Me Dê Motivo",
+    "msPlayed" : 335021
+  },
+  {
+    "endTime" : "2021-12-01 23:12",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 117576
+  },
+  {
+    "endTime" : "2021-12-01 23:17",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set do Dj Pedro 3.0",
+    "msPlayed" : 295103
+  },
+  {
+    "endTime" : "2021-12-01 23:22",
+    "artistName" : "Tim Maia",
+    "trackName" : "Me Dê Motivo",
+    "msPlayed" : 335021
+  },
+  {
+    "endTime" : "2021-12-02 00:27",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 117576
+  },
+  {
+    "endTime" : "2021-12-02 00:32",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set do Dj Pedro 3.0",
+    "msPlayed" : 268000
+  },
+  {
+    "endTime" : "2021-12-02 00:38",
+    "artistName" : "Tim Maia",
+    "trackName" : "Me Dê Motivo",
+    "msPlayed" : 335021
+  },
+  {
+    "endTime" : "2021-12-03 09:20",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 4280
+  },
+  {
+    "endTime" : "2021-12-03 11:49",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 8990
+  },
+  {
+    "endTime" : "2021-12-03 11:54",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 157180
+  },
+  {
+    "endTime" : "2021-12-03 11:57",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 183210
+  },
+  {
+    "endTime" : "2021-12-03 12:01",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 238026
+  },
+  {
+    "endTime" : "2021-12-03 12:23",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 58352
+  },
+  {
+    "endTime" : "2021-12-03 12:27",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-12-03 12:27",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 29901
+  },
+  {
+    "endTime" : "2021-12-03 12:42",
+    "artistName" : "Djonga",
+    "trackName" : "Deus Dará (prod. Coyote Beatz)",
+    "msPlayed" : 95530
+  },
+  {
+    "endTime" : "2021-12-03 12:45",
+    "artistName" : "Djonga",
+    "trackName" : "Nós",
+    "msPlayed" : 193799
+  },
+  {
+    "endTime" : "2021-12-03 13:36",
+    "artistName" : "Gloria Groove",
+    "trackName" : "BONEKINHA",
+    "msPlayed" : 168887
+  },
+  {
+    "endTime" : "2021-12-03 13:40",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-12-03 17:40",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 12027
+  },
+  {
+    "endTime" : "2021-12-03 17:44",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 223892
+  },
+  {
+    "endTime" : "2021-12-03 17:50",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175317
+  },
+  {
+    "endTime" : "2021-12-03 17:54",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-12-03 18:01",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218282
+  },
+  {
+    "endTime" : "2021-12-03 18:04",
+    "artistName" : "Derek",
+    "trackName" : "Atrás de Tu",
+    "msPlayed" : 183428
+  },
+  {
+    "endTime" : "2021-12-03 18:08",
+    "artistName" : "Matt Maltese",
+    "trackName" : "As the World Caves In",
+    "msPlayed" : 218754
+  },
+  {
+    "endTime" : "2021-12-03 18:12",
+    "artistName" : "Travis Scott",
+    "trackName" : "MAFIA",
+    "msPlayed" : 240000
+  },
+  {
+    "endTime" : "2021-12-03 18:14",
+    "artistName" : "Travis Scott",
+    "trackName" : "ESCAPE PLAN",
+    "msPlayed" : 149610
+  },
+  {
+    "endTime" : "2021-12-03 20:50",
+    "artistName" : "MC Nego da Marcone",
+    "trackName" : "Beat da Felicidade",
+    "msPlayed" : 231063
+  },
+  {
+    "endTime" : "2021-12-03 20:54",
+    "artistName" : "Kanye West",
+    "trackName" : "Praise God",
+    "msPlayed" : 226652
+  },
+  {
+    "endTime" : "2021-12-03 20:59",
+    "artistName" : "Kanye West",
+    "trackName" : "God Breathed",
+    "msPlayed" : 333461
+  },
+  {
+    "endTime" : "2021-12-03 21:03",
+    "artistName" : "Teto",
+    "trackName" : "Mustang Preto",
+    "msPlayed" : 183000
+  },
+  {
+    "endTime" : "2021-12-03 21:05",
+    "artistName" : "LISA",
+    "trackName" : "MONEY",
+    "msPlayed" : 168227
+  },
+  {
+    "endTime" : "2021-12-03 21:09",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "SUV",
+    "msPlayed" : 240746
+  },
+  {
+    "endTime" : "2021-12-03 21:14",
+    "artistName" : "Slipknot",
+    "trackName" : "Before I Forget",
+    "msPlayed" : 278600
+  },
+  {
+    "endTime" : "2021-12-03 21:17",
+    "artistName" : "Destroy Boys",
+    "trackName" : "Crybaby",
+    "msPlayed" : 190927
+  },
+  {
+    "endTime" : "2021-12-03 21:22",
+    "artistName" : "Nirvana",
+    "trackName" : "Smells Like Teen Spirit",
+    "msPlayed" : 301920
+  },
+  {
+    "endTime" : "2021-12-03 21:27",
+    "artistName" : "Mac Miller",
+    "trackName" : "What's the Use?",
+    "msPlayed" : 288640
+  },
+  {
+    "endTime" : "2021-12-03 21:30",
+    "artistName" : "SD9",
+    "trackName" : "40°.40, Pt. I",
+    "msPlayed" : 196000
+  },
+  {
+    "endTime" : "2021-12-03 22:33",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Foda",
+    "msPlayed" : 132404
+  },
+  {
+    "endTime" : "2021-12-04 01:14",
+    "artistName" : "Aka Rasta",
+    "trackName" : "XJ",
+    "msPlayed" : 604
+  },
+  {
+    "endTime" : "2021-12-04 01:15",
+    "artistName" : "Aka Rasta",
+    "trackName" : "XJ",
+    "msPlayed" : 22120
+  },
+  {
+    "endTime" : "2021-12-04 01:49",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 35080
+  },
+  {
+    "endTime" : "2021-12-05 21:22",
+    "artistName" : "Kyan",
+    "trackName" : "Trap de Gringo",
+    "msPlayed" : 160869
+  },
+  {
+    "endTime" : "2021-12-05 21:26",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set do Dj Pedro 3.0",
+    "msPlayed" : 227752
+  },
+  {
+    "endTime" : "2021-12-05 21:26",
+    "artistName" : "MC Kapela",
+    "trackName" : "Festa Linda",
+    "msPlayed" : 5971
+  },
+  {
+    "endTime" : "2021-12-05 21:29",
+    "artistName" : "DJ Pedro",
+    "trackName" : "SET DJ PEDRO 5.0",
+    "msPlayed" : 181431
+  },
+  {
+    "endTime" : "2021-12-05 21:31",
+    "artistName" : "MC Hariel",
+    "trackName" : "Maçã Verde",
+    "msPlayed" : 127976
+  },
+  {
+    "endTime" : "2021-12-05 21:33",
+    "artistName" : "Mc Davi",
+    "trackName" : "Bipolar",
+    "msPlayed" : 78250
+  },
+  {
+    "endTime" : "2021-12-05 21:40",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set dos Casados",
+    "msPlayed" : 434867
+  },
+  {
+    "endTime" : "2021-12-06 18:53",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Foda",
+    "msPlayed" : 214370
+  },
+  {
+    "endTime" : "2021-12-06 19:05",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set do Dj Pedro 3.0",
+    "msPlayed" : 351410
+  },
+  {
+    "endTime" : "2021-12-06 19:09",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Flo Jo",
+    "msPlayed" : 234032
+  },
+  {
+    "endTime" : "2021-12-06 19:14",
+    "artistName" : "Dreamville",
+    "trackName" : "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
+    "msPlayed" : 143977
+  },
+  {
+    "endTime" : "2021-12-06 19:19",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Amarrou",
+    "msPlayed" : 217367
+  },
+  {
+    "endTime" : "2021-12-06 19:21",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Lui Lui",
+    "msPlayed" : 128942
+  },
+  {
+    "endTime" : "2021-12-06 19:26",
+    "artistName" : "Don L",
+    "trackName" : "auri sacra fames",
+    "msPlayed" : 267175
+  },
+  {
+    "endTime" : "2021-12-06 19:35",
+    "artistName" : "MC Ryan SP",
+    "trackName" : "Revoada do Tubarão",
+    "msPlayed" : 573333
+  },
+  {
+    "endTime" : "2021-12-06 19:38",
+    "artistName" : "Don L",
+    "trackName" : "bingo",
+    "msPlayed" : 165454
+  },
+  {
+    "endTime" : "2021-12-06 19:38",
+    "artistName" : "Don L",
+    "trackName" : "(interlúdio 3)",
+    "msPlayed" : 13243
+  },
+  {
+    "endTime" : "2021-12-06 19:44",
+    "artistName" : "Don L",
+    "trackName" : "contigo pro que for",
+    "msPlayed" : 75122
+  },
+  {
+    "endTime" : "2021-12-06 20:03",
+    "artistName" : "MC Ryan SP",
+    "trackName" : "Revoada do Tubarão 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
+    "msPlayed" : 1370
+  },
+  {
+    "endTime" : "2021-12-06 20:03",
+    "artistName" : "Mc Kelvinho",
+    "trackName" : "Avisa Lá, Pt.3",
+    "msPlayed" : 294880
+  },
+  {
+    "endTime" : "2021-12-06 20:05",
+    "artistName" : "Mc Bruninho da Praia",
+    "trackName" : "Giro dos Artistas",
+    "msPlayed" : 81520
+  },
+  {
+    "endTime" : "2021-12-06 20:07",
+    "artistName" : "MC Hariel",
+    "trackName" : "Maçã Verde",
+    "msPlayed" : 164307
+  },
+  {
+    "endTime" : "2021-12-06 20:11",
+    "artistName" : "Matuê",
+    "trackName" : "Quer Voar",
+    "msPlayed" : 187636
+  },
+  {
+    "endTime" : "2021-12-06 20:14",
+    "artistName" : "NGC Daddy",
+    "trackName" : "Bendito",
+    "msPlayed" : 177869
+  },
+  {
+    "endTime" : "2021-12-06 20:16",
+    "artistName" : "Mc Poze do Rodo",
+    "trackName" : "Vida Louca",
+    "msPlayed" : 155675
+  },
+  {
+    "endTime" : "2021-12-06 20:19",
+    "artistName" : "Teto",
+    "trackName" : "Mustang Preto",
+    "msPlayed" : 183000
+  },
+  {
+    "endTime" : "2021-12-06 20:21",
+    "artistName" : "DJ Matt D",
+    "trackName" : "Tipo Gringa",
+    "msPlayed" : 114143
+  },
+  {
+    "endTime" : "2021-12-06 20:24",
+    "artistName" : "MC Hariel",
+    "trackName" : "Ilusão (Cracolândia)",
+    "msPlayed" : 5303
+  },
+  {
+    "endTime" : "2021-12-06 20:24",
+    "artistName" : "Mc Laranjinha",
+    "trackName" : "Roct Pot 02 (Mc Laranjinha)",
+    "msPlayed" : 176501
+  },
+  {
+    "endTime" : "2021-12-06 20:26",
+    "artistName" : "Mc Laranjinha",
+    "trackName" : "Roct Pot 02 (Mc Laranjinha)",
+    "msPlayed" : 107076
+  },
+  {
+    "endTime" : "2021-12-06 20:31",
+    "artistName" : "MC Hariel",
+    "trackName" : "Ilusão (Cracolândia)",
+    "msPlayed" : 324000
+  },
+  {
+    "endTime" : "2021-12-07 01:07",
+    "artistName" : "Abbot",
+    "trackName" : "Visão de Futuro",
+    "msPlayed" : 110993
+  },
+  {
+    "endTime" : "2021-12-07 01:07",
+    "artistName" : "Febem",
+    "trackName" : "ESSE É MEU ESTILO (feat. Akira Presidente & BK)",
+    "msPlayed" : 140
+  },
+  {
+    "endTime" : "2021-12-07 01:13",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 390545
+  },
+  {
+    "endTime" : "2021-12-07 01:17",
+    "artistName" : "MOB79",
+    "trackName" : "Seguir Só",
+    "msPlayed" : 206864
+  },
+  {
+    "endTime" : "2021-12-07 01:20",
+    "artistName" : "Febem",
+    "trackName" : "CRIME",
+    "msPlayed" : 188330
+  },
+  {
+    "endTime" : "2021-12-07 01:24",
+    "artistName" : "Kyan",
+    "trackName" : "The Box Medley 2",
+    "msPlayed" : 237000
+  },
+  {
+    "endTime" : "2021-12-07 01:27",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218282
+  },
+  {
+    "endTime" : "2021-12-07 01:31",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 204693
+  },
+  {
+    "endTime" : "2021-12-07 01:35",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano",
+    "msPlayed" : 225071
+  },
+  {
+    "endTime" : "2021-12-07 01:39",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-07 01:43",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 223892
+  },
+  {
+    "endTime" : "2021-12-07 01:45",
+    "artistName" : "Nill",
+    "trackName" : "Nego Drama Pt. II",
+    "msPlayed" : 129836
+  },
+  {
+    "endTime" : "2021-12-07 17:49",
+    "artistName" : "Nill",
+    "trackName" : "Nego Drama Pt. II",
+    "msPlayed" : 170820
+  },
+  {
+    "endTime" : "2021-12-07 17:52",
+    "artistName" : "FBC",
+    "trackName" : "SE EU NÃO TE CANTAR",
+    "msPlayed" : 158936
+  },
+  {
+    "endTime" : "2021-12-07 17:55",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Sem Colete",
+    "msPlayed" : 160000
+  },
+  {
+    "endTime" : "2021-12-07 17:58",
+    "artistName" : "Anti-Herói",
+    "trackName" : "Mônica",
+    "msPlayed" : 160549
+  },
+  {
+    "endTime" : "2021-12-07 18:06",
+    "artistName" : "Sain",
+    "trackName" : "Iori Incorporado",
+    "msPlayed" : 19743
+  },
+  {
+    "endTime" : "2021-12-07 18:10",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218282
+  },
+  {
+    "endTime" : "2021-12-07 18:12",
+    "artistName" : "Djonga",
+    "trackName" : "Entre o Código da Espada e o Perfume da Rosa",
+    "msPlayed" : 128213
+  },
+  {
+    "endTime" : "2021-12-07 19:58",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-12-08 00:10",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 376430
+  },
+  {
+    "endTime" : "2021-12-08 00:15",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 279253
+  },
+  {
+    "endTime" : "2021-12-08 00:18",
+    "artistName" : "Djonga",
+    "trackName" : "Verdades Inventadas",
+    "msPlayed" : 173397
+  },
+  {
+    "endTime" : "2021-12-08 00:21",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175317
+  },
+  {
+    "endTime" : "2021-12-08 00:24",
+    "artistName" : "Djonga",
+    "trackName" : "Heresia",
+    "msPlayed" : 167168
+  },
+  {
+    "endTime" : "2021-12-08 00:27",
+    "artistName" : "Djonga",
+    "trackName" : "Irmãos de Arma, Irmãos de Luta",
+    "msPlayed" : 151306
+  },
+  {
+    "endTime" : "2021-12-08 00:31",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 223892
+  },
+  {
+    "endTime" : "2021-12-08 00:34",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175317
+  },
+  {
+    "endTime" : "2021-12-08 00:38",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Lui Lui",
+    "msPlayed" : 281223
+  },
+  {
+    "endTime" : "2021-12-08 00:42",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 204693
+  },
+  {
+    "endTime" : "2021-12-08 00:43",
+    "artistName" : "Borges",
+    "trackName" : "Contando Dinheiro",
+    "msPlayed" : 86085
+  },
+  {
+    "endTime" : "2021-12-08 01:53",
+    "artistName" : "Don L",
+    "trackName" : "contigo pro que for",
+    "msPlayed" : 161310
+  },
+  {
+    "endTime" : "2021-12-08 01:57",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-12-08 01:58",
+    "artistName" : "Tasha & Tracie",
+    "trackName" : "Diretoria",
+    "msPlayed" : 21163
+  },
+  {
+    "endTime" : "2021-12-08 01:59",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 117576
+  },
+  {
+    "endTime" : "2021-12-08 02:04",
+    "artistName" : "Black Alien",
+    "trackName" : "Carta Pra Amy",
+    "msPlayed" : 41582
+  },
+  {
+    "endTime" : "2021-12-08 02:04",
+    "artistName" : "FBC",
+    "trackName" : "$ENHOR",
+    "msPlayed" : 254350
+  },
+  {
+    "endTime" : "2021-12-08 02:13",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-08 02:16",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 158943
+  },
+  {
+    "endTime" : "2021-12-08 02:20",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 02:23",
+    "artistName" : "BK",
+    "trackName" : "Paraíso Que Me Cerca",
+    "msPlayed" : 217647
+  },
+  {
+    "endTime" : "2021-12-08 02:26",
+    "artistName" : "BK",
+    "trackName" : "E Se Eu Morrer",
+    "msPlayed" : 164397
+  },
+  {
+    "endTime" : "2021-12-08 02:26",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 9970
+  },
+  {
+    "endTime" : "2021-12-08 02:30",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-08 02:33",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 158943
+  },
+  {
+    "endTime" : "2021-12-08 02:37",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 02:40",
+    "artistName" : "BK",
+    "trackName" : "Paraíso Que Me Cerca",
+    "msPlayed" : 217647
+  },
+  {
+    "endTime" : "2021-12-08 02:43",
+    "artistName" : "BK",
+    "trackName" : "E Se Eu Morrer",
+    "msPlayed" : 164397
+  },
+  {
+    "endTime" : "2021-12-08 02:43",
+    "artistName" : "BK",
+    "trackName" : "Sigo na Sombra",
+    "msPlayed" : 17760
+  },
+  {
+    "endTime" : "2021-12-08 02:47",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-08 02:50",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 158943
+  },
+  {
+    "endTime" : "2021-12-08 02:54",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 02:57",
+    "artistName" : "BK",
+    "trackName" : "Paraíso Que Me Cerca",
+    "msPlayed" : 217647
+  },
+  {
+    "endTime" : "2021-12-08 03:00",
+    "artistName" : "BK",
+    "trackName" : "E Se Eu Morrer",
+    "msPlayed" : 164397
+  },
+  {
+    "endTime" : "2021-12-08 03:05",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 18081
+  },
+  {
+    "endTime" : "2021-12-08 03:05",
+    "artistName" : "BK",
+    "trackName" : "Quadros",
+    "msPlayed" : 309618
+  },
+  {
+    "endTime" : "2021-12-08 03:09",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-08 03:12",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 158943
+  },
+  {
+    "endTime" : "2021-12-08 03:26",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 446208
+  },
+  {
+    "endTime" : "2021-12-08 03:30",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 03:34",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 03:38",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 03:42",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 03:46",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 03:50",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 03:54",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 03:58",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-08 03:59",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 14024
+  },
+  {
+    "endTime" : "2021-12-09 16:20",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244751
+  },
+  {
+    "endTime" : "2021-12-09 16:24",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-09 16:34",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-09 16:38",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-09 16:43",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-09 16:47",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-09 16:51",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-09 16:55",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 222125
+  },
+  {
+    "endTime" : "2021-12-09 17:28",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-09 17:31",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 158943
+  },
+  {
+    "endTime" : "2021-12-09 17:35",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-09 17:38",
+    "artistName" : "BK",
+    "trackName" : "Paraíso Que Me Cerca",
+    "msPlayed" : 217647
+  },
+  {
+    "endTime" : "2021-12-09 17:41",
+    "artistName" : "BK",
+    "trackName" : "E Se Eu Morrer",
+    "msPlayed" : 164397
+  },
+  {
+    "endTime" : "2021-12-09 17:48",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-09 17:57",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 158943
+  },
+  {
+    "endTime" : "2021-12-09 18:01",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-09 18:05",
+    "artistName" : "BK",
+    "trackName" : "Paraíso Que Me Cerca",
+    "msPlayed" : 217647
+  },
+  {
+    "endTime" : "2021-12-09 18:07",
+    "artistName" : "BK",
+    "trackName" : "E Se Eu Morrer",
+    "msPlayed" : 164397
+  },
+  {
+    "endTime" : "2021-12-09 18:11",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-09 18:14",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 158943
+  },
+  {
+    "endTime" : "2021-12-09 18:18",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-09 18:21",
+    "artistName" : "BK",
+    "trackName" : "Paraíso Que Me Cerca",
+    "msPlayed" : 217647
+  },
+  {
+    "endTime" : "2021-12-09 18:24",
+    "artistName" : "BK",
+    "trackName" : "E Se Eu Morrer",
+    "msPlayed" : 164397
+  },
+  {
+    "endTime" : "2021-12-09 18:28",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-09 18:30",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 158943
+  },
+  {
+    "endTime" : "2021-12-09 18:34",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-09 18:38",
+    "artistName" : "BK",
+    "trackName" : "Paraíso Que Me Cerca",
+    "msPlayed" : 217647
+  },
+  {
+    "endTime" : "2021-12-09 18:41",
+    "artistName" : "BK",
+    "trackName" : "E Se Eu Morrer",
+    "msPlayed" : 164397
+  },
+  {
+    "endTime" : "2021-12-09 18:44",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-09 18:47",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 158943
+  },
+  {
+    "endTime" : "2021-12-10 00:24",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 283095
+  },
+  {
+    "endTime" : "2021-12-14 17:10",
+    "artistName" : "Péricles",
+    "trackName" : "Até Que Durou",
+    "msPlayed" : 541451
+  },
+  {
+    "endTime" : "2021-12-14 17:13",
+    "artistName" : "Péricles",
+    "trackName" : "Até Que Durou",
+    "msPlayed" : 2310
+  },
+  {
+    "endTime" : "2021-12-14 17:13",
+    "artistName" : "Péricles",
+    "trackName" : "Até Que Durou",
+    "msPlayed" : 140809
+  },
+  {
+    "endTime" : "2021-12-14 17:13",
+    "artistName" : "Péricles",
+    "trackName" : "Melhor Eu Ir",
+    "msPlayed" : 4750
+  },
+  {
+    "endTime" : "2021-12-14 17:17",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-12-14 17:20",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2021-12-14 17:20",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 23704
+  },
+  {
+    "endTime" : "2021-12-14 17:21",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 59960
+  },
+  {
+    "endTime" : "2021-12-14 17:25",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 199921
+  },
+  {
+    "endTime" : "2021-12-14 17:28",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2021-12-14 17:30",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 127511
+  },
+  {
+    "endTime" : "2021-12-14 17:33",
+    "artistName" : "FBC",
+    "trackName" : "Melô do Vacilão",
+    "msPlayed" : 197721
+  },
+  {
+    "endTime" : "2021-12-14 17:35",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 115859
+  },
+  {
+    "endTime" : "2021-12-14 17:38",
+    "artistName" : "FBC",
+    "trackName" : "Eu Sou o Crime",
+    "msPlayed" : 144199
+  },
+  {
+    "endTime" : "2021-12-14 17:38",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 33817
+  },
+  {
+    "endTime" : "2021-12-14 23:17",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2021-12-14 23:19",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 170922
+  },
+  {
+    "endTime" : "2021-12-14 23:22",
+    "artistName" : "Cage The Elephant",
+    "trackName" : "Trouble",
+    "msPlayed" : 177440
+  },
+  {
+    "endTime" : "2021-12-14 23:24",
+    "artistName" : "Cage The Elephant",
+    "trackName" : "Social Cues",
+    "msPlayed" : 83954
+  },
+  {
+    "endTime" : "2021-12-14 23:28",
+    "artistName" : "Cage The Elephant",
+    "trackName" : "Spiderhead",
+    "msPlayed" : 222813
+  },
+  {
+    "endTime" : "2021-12-14 23:28",
+    "artistName" : "Cage The Elephant",
+    "trackName" : "Come A Little Closer",
+    "msPlayed" : 10901
+  },
+  {
+    "endTime" : "2021-12-14 23:31",
+    "artistName" : "Cage The Elephant",
+    "trackName" : "Cold Cold Cold",
+    "msPlayed" : 184969
+  },
+  {
+    "endTime" : "2021-12-15 18:28",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 5630
+  },
+  {
+    "endTime" : "2021-12-15 18:31",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2021-12-15 18:31",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 30670
+  },
+  {
+    "endTime" : "2021-12-15 18:34",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2021-12-15 18:36",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 127511
+  },
+  {
+    "endTime" : "2021-12-15 18:40",
+    "artistName" : "FBC",
+    "trackName" : "Melô do Vacilão",
+    "msPlayed" : 197721
+  },
+  {
+    "endTime" : "2021-12-15 18:42",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 115859
+  },
+  {
+    "endTime" : "2021-12-15 18:44",
+    "artistName" : "FBC",
+    "trackName" : "Eu Sou o Crime",
+    "msPlayed" : 144199
+  },
+  {
+    "endTime" : "2021-12-15 18:47",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 162523
+  },
+  {
+    "endTime" : "2021-12-15 18:50",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 194644
+  },
+  {
+    "endTime" : "2021-12-15 18:53",
+    "artistName" : "FBC",
+    "trackName" : "Polícia Covarde",
+    "msPlayed" : 150751
+  },
+  {
+    "endTime" : "2021-12-15 18:53",
+    "artistName" : "FBC",
+    "trackName" : "De Kenner",
+    "msPlayed" : 10770
+  },
+  {
+    "endTime" : "2021-12-15 18:57",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-15 19:01",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-15 19:09",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-15 19:13",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-15 19:17",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-15 20:04",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-15 20:08",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-15 20:12",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-15 20:16",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-15 20:18",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 120364
+  },
+  {
+    "endTime" : "2021-12-16 20:23",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 267980
+  },
+  {
+    "endTime" : "2021-12-16 20:27",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2021-12-16 20:29",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 127511
+  },
+  {
+    "endTime" : "2021-12-16 20:30",
+    "artistName" : "FBC",
+    "trackName" : "Melô do Vacilão",
+    "msPlayed" : 68729
+  },
+  {
+    "endTime" : "2021-12-17 17:05",
+    "artistName" : "FBC",
+    "trackName" : "Melô do Vacilão",
+    "msPlayed" : 199181
+  },
+  {
+    "endTime" : "2021-12-17 17:07",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 115859
+  },
+  {
+    "endTime" : "2021-12-17 17:09",
+    "artistName" : "FBC",
+    "trackName" : "Eu Sou o Crime",
+    "msPlayed" : 144199
+  },
+  {
+    "endTime" : "2021-12-17 17:12",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 162523
+  },
+  {
+    "endTime" : "2021-12-17 17:15",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 194644
+  },
+  {
+    "endTime" : "2021-12-17 17:18",
+    "artistName" : "FBC",
+    "trackName" : "Polícia Covarde",
+    "msPlayed" : 150751
+  },
+  {
+    "endTime" : "2021-12-17 17:19",
+    "artistName" : "FBC",
+    "trackName" : "De Kenner",
+    "msPlayed" : 81901
+  },
+  {
+    "endTime" : "2021-12-17 17:22",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 199921
+  },
+  {
+    "endTime" : "2021-12-17 17:25",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2021-12-17 17:28",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 127511
+  },
+  {
+    "endTime" : "2021-12-17 17:32",
+    "artistName" : "FBC",
+    "trackName" : "Melô do Vacilão",
+    "msPlayed" : 197721
+  },
+  {
+    "endTime" : "2021-12-17 17:37",
+    "artistName" : "Racionais MC's",
+    "trackName" : "Vida Loka, Pt. 2",
+    "msPlayed" : 350560
+  },
+  {
+    "endTime" : "2021-12-17 17:39",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 115859
+  },
+  {
+    "endTime" : "2021-12-17 17:42",
+    "artistName" : "FBC",
+    "trackName" : "Eu Sou o Crime",
+    "msPlayed" : 144199
+  },
+  {
+    "endTime" : "2021-12-17 17:45",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 162523
+  },
+  {
+    "endTime" : "2021-12-17 18:19",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 194644
+  },
+  {
+    "endTime" : "2021-12-17 19:04",
+    "artistName" : "FBC",
+    "trackName" : "Polícia Covarde",
+    "msPlayed" : 150751
+  },
+  {
+    "endTime" : "2021-12-17 19:07",
+    "artistName" : "FBC",
+    "trackName" : "De Kenner",
+    "msPlayed" : 152209
+  },
+  {
+    "endTime" : "2021-12-17 19:10",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 199921
+  },
+  {
+    "endTime" : "2021-12-17 19:13",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2021-12-17 19:16",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 127511
+  },
+  {
+    "endTime" : "2021-12-17 19:19",
+    "artistName" : "FBC",
+    "trackName" : "Melô do Vacilão",
+    "msPlayed" : 197721
+  },
+  {
+    "endTime" : "2021-12-17 19:21",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 115859
+  },
+  {
+    "endTime" : "2021-12-17 19:23",
+    "artistName" : "FBC",
+    "trackName" : "Eu Sou o Crime",
+    "msPlayed" : 144199
+  },
+  {
+    "endTime" : "2021-12-17 20:05",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 162523
+  },
+  {
+    "endTime" : "2021-12-17 20:06",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 15233
+  },
+  {
+    "endTime" : "2021-12-17 20:09",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-17 20:12",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 158943
+  },
+  {
+    "endTime" : "2021-12-17 20:16",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-17 20:18",
+    "artistName" : "BK",
+    "trackName" : "Paraíso Que Me Cerca",
+    "msPlayed" : 133676
+  },
+  {
+    "endTime" : "2021-12-17 22:53",
+    "artistName" : "Mc Davi",
+    "trackName" : "Set do Dj Pedro 3.0",
+    "msPlayed" : 45557
+  },
+  {
+    "endTime" : "2021-12-17 22:55",
+    "artistName" : "Anitta",
+    "trackName" : "NO CHÃO NOVINHA",
+    "msPlayed" : 136901
+  },
+  {
+    "endTime" : "2021-12-17 22:58",
+    "artistName" : "Anderson Freire",
+    "trackName" : "Raridade",
+    "msPlayed" : 25450
+  },
+  {
+    "endTime" : "2021-12-17 23:01",
+    "artistName" : "Gloria Groove",
+    "trackName" : "A QUEDA",
+    "msPlayed" : 172479
+  },
+  {
+    "endTime" : "2021-12-17 23:01",
+    "artistName" : "Linkin Park",
+    "trackName" : "In the End",
+    "msPlayed" : 10160
+  },
+  {
+    "endTime" : "2021-12-17 23:01",
+    "artistName" : "John Williams",
+    "trackName" : "Double Trouble",
+    "msPlayed" : 24505
+  },
+  {
+    "endTime" : "2021-12-17 23:02",
+    "artistName" : "Olivia Rodrigo",
+    "trackName" : "brutal",
+    "msPlayed" : 6664
+  },
+  {
+    "endTime" : "2021-12-17 23:06",
+    "artistName" : "Olivia Rodrigo",
+    "trackName" : "deja vu",
+    "msPlayed" : 215506
+  },
+  {
+    "endTime" : "2021-12-17 23:07",
+    "artistName" : "Rihanna",
+    "trackName" : "Disturbia",
+    "msPlayed" : 6676
+  },
+  {
+    "endTime" : "2021-12-17 23:09",
+    "artistName" : "Lil Nas X",
+    "trackName" : "INDUSTRY BABY (feat. Jack Harlow)",
+    "msPlayed" : 9118
+  },
+  {
+    "endTime" : "2021-12-17 23:09",
+    "artistName" : "PEDRO SAMPAIO",
+    "trackName" : "GALOPA",
+    "msPlayed" : 140482
+  },
+  {
+    "endTime" : "2021-12-17 23:12",
+    "artistName" : "MC Mazzie",
+    "trackName" : "Ele Te Bota Soca Soca",
+    "msPlayed" : 180927
+  },
+  {
+    "endTime" : "2021-12-17 23:14",
+    "artistName" : "MC Pipokinha",
+    "trackName" : "Beat do Mario Bros (feat. DJ Gouveia)",
+    "msPlayed" : 107247
+  },
+  {
+    "endTime" : "2021-12-17 23:14",
+    "artistName" : "Bring Me The Horizon",
+    "trackName" : "i apologise if you feel something",
+    "msPlayed" : 9271
+  },
+  {
+    "endTime" : "2021-12-17 23:16",
+    "artistName" : "Mc Cyclope",
+    "trackName" : "MT- AI CALICA QUER DA PROS AMIGO DA BOCA",
+    "msPlayed" : 86099
+  },
+  {
+    "endTime" : "2021-12-17 23:18",
+    "artistName" : "mc jhenny",
+    "trackName" : "Chamo Teu Vulgo Malvadão",
+    "msPlayed" : 118308
+  },
+  {
+    "endTime" : "2021-12-17 23:21",
+    "artistName" : "Mc Neguinho do ITR",
+    "trackName" : "Forte pra Dar Sorte",
+    "msPlayed" : 223981
+  },
+  {
+    "endTime" : "2021-12-17 23:23",
+    "artistName" : "DENNIS",
+    "trackName" : "Deixa de Onda (Porra Nenhuma)",
+    "msPlayed" : 82526
+  },
+  {
+    "endTime" : "2021-12-17 23:23",
+    "artistName" : "Megabaile Do Areias",
+    "trackName" : "RAVE IN THE DARK",
+    "msPlayed" : 5552
+  },
+  {
+    "endTime" : "2021-12-17 23:27",
+    "artistName" : "DJ K",
+    "trackName" : "Renk Renk: Olha o Barulinho da Cama (feat. MC Fefe Original)",
+    "msPlayed" : 214175
+  },
+  {
+    "endTime" : "2021-12-17 23:29",
+    "artistName" : "Dj Guuga",
+    "trackName" : "Disputa Pra Qual Mais Kika",
+    "msPlayed" : 163887
+  },
+  {
+    "endTime" : "2021-12-17 23:32",
+    "artistName" : "MC WM",
+    "trackName" : "Separei",
+    "msPlayed" : 162401
+  },
+  {
+    "endTime" : "2021-12-17 23:34",
+    "artistName" : "MC Rick",
+    "trackName" : "Cupido Fdp 2",
+    "msPlayed" : 138461
+  },
+  {
+    "endTime" : "2021-12-17 23:37",
+    "artistName" : "DJ BRUNO PRADO",
+    "trackName" : "O LOBO VAI COMER - ELE TE COME E DEPOIS JOGA FORA",
+    "msPlayed" : 136236
+  },
+  {
+    "endTime" : "2021-12-17 23:40",
+    "artistName" : "Dj Guuga",
+    "trackName" : "Não era Amor, era Quarentena",
+    "msPlayed" : 201225
+  },
+  {
+    "endTime" : "2021-12-17 23:43",
+    "artistName" : "MD Chefe",
+    "trackName" : "Rei Lacoste",
+    "msPlayed" : 151999
+  },
+  {
+    "endTime" : "2021-12-17 23:45",
+    "artistName" : "MD Chefe",
+    "trackName" : "Tiffany",
+    "msPlayed" : 152370
+  },
+  {
+    "endTime" : "2021-12-17 23:48",
+    "artistName" : "Oliver Tree",
+    "trackName" : "Life Goes On",
+    "msPlayed" : 161798
+  },
+  {
+    "endTime" : "2021-12-17 23:50",
+    "artistName" : "Anitta",
+    "trackName" : "Faking Love (feat. Saweetie)",
+    "msPlayed" : 146933
+  },
+  {
+    "endTime" : "2021-12-17 23:53",
+    "artistName" : "Luísa Sonza",
+    "trackName" : "VIP *-*",
+    "msPlayed" : 176380
+  },
+  {
+    "endTime" : "2021-12-17 23:56",
+    "artistName" : "Y2K",
+    "trackName" : "Lalala - Ilkan Gunuc Remix",
+    "msPlayed" : 178407
+  },
+  {
+    "endTime" : "2021-12-17 23:58",
+    "artistName" : "Celular Phone Studio",
+    "trackName" : "Gritos de Terror de Niños",
+    "msPlayed" : 840
+  },
+  {
+    "endTime" : "2021-12-17 23:58",
+    "artistName" : "Loki's Halloween Party",
+    "trackName" : "Dark Woods",
+    "msPlayed" : 90233
+  },
+  {
+    "endTime" : "2021-12-17 23:58",
+    "artistName" : "James Brown & The Famous Flames",
+    "trackName" : "I Got You (I Feel Good)",
+    "msPlayed" : 2358
+  },
+  {
+    "endTime" : "2021-12-18 00:00",
+    "artistName" : "Two Feet",
+    "trackName" : "Go Fuck Yourself",
+    "msPlayed" : 129599
+  },
+  {
+    "endTime" : "2021-12-18 00:01",
+    "artistName" : "Kid Cudi",
+    "trackName" : "Pursuit Of Happiness - Extended Steve Aoki Remix",
+    "msPlayed" : 69988
+  },
+  {
+    "endTime" : "2021-12-18 00:04",
+    "artistName" : "Eminem",
+    "trackName" : "Without Me",
+    "msPlayed" : 21771
+  },
+  {
+    "endTime" : "2021-12-18 00:04",
+    "artistName" : "Stefy De Cicco",
+    "trackName" : "Day 'N' Nite - Martin Jensen Edit",
+    "msPlayed" : 166200
+  },
+  {
+    "endTime" : "2021-12-18 00:08",
+    "artistName" : "Kid Cudi",
+    "trackName" : "Day 'N' Nite (Nightmare)",
+    "msPlayed" : 221240
+  },
+  {
+    "endTime" : "2021-12-19 20:34",
+    "artistName" : "Sant",
+    "trackName" : "Puxa o Gatilho Primeiro",
+    "msPlayed" : 10834
+  },
+  {
+    "endTime" : "2021-12-19 20:34",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 88817
+  },
+  {
+    "endTime" : "2021-12-19 20:36",
+    "artistName" : "LEALL",
+    "trackName" : "Os Pitbull do Ano, Pt. 2",
+    "msPlayed" : 120922
+  },
+  {
+    "endTime" : "2021-12-19 20:36",
+    "artistName" : "Febem",
+    "trackName" : "SEM TEMPO (feat. Jean Tassy)",
+    "msPlayed" : 7890
+  },
+  {
+    "endTime" : "2021-12-19 20:38",
+    "artistName" : "Febem",
+    "trackName" : "Rosas",
+    "msPlayed" : 118185
+  },
+  {
+    "endTime" : "2021-12-19 20:40",
+    "artistName" : "Febem",
+    "trackName" : "SEM TEMPO (feat. Jean Tassy)",
+    "msPlayed" : 117447
+  },
+  {
+    "endTime" : "2021-12-19 20:43",
+    "artistName" : "Febem",
+    "trackName" : "VAI PENSANDO",
+    "msPlayed" : 184135
+  },
+  {
+    "endTime" : "2021-12-19 20:46",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Sem Colete",
+    "msPlayed" : 159986
+  },
+  {
+    "endTime" : "2021-12-19 20:48",
+    "artistName" : "FBC",
+    "trackName" : "Baile de Ladrão",
+    "msPlayed" : 148262
+  },
+  {
+    "endTime" : "2021-12-19 20:52",
+    "artistName" : "Nill",
+    "trackName" : "Regras da Loja",
+    "msPlayed" : 230831
+  },
+  {
+    "endTime" : "2021-12-19 20:55",
+    "artistName" : "Shawlin",
+    "trackName" : "Dívida De Gratidão",
+    "msPlayed" : 146988
+  },
+  {
+    "endTime" : "2021-12-19 20:58",
+    "artistName" : "Febem",
+    "trackName" : "TERCEIRO MUNDO",
+    "msPlayed" : 216457
+  },
+  {
+    "endTime" : "2021-12-19 20:59",
+    "artistName" : "Sain",
+    "trackName" : "Iori Incorporado",
+    "msPlayed" : 17903
+  },
+  {
+    "endTime" : "2021-12-19 20:59",
+    "artistName" : "Febre90s",
+    "trackName" : "No Piscar dos Olhos",
+    "msPlayed" : 37601
+  },
+  {
+    "endTime" : "2021-12-21 17:56",
+    "artistName" : "BK",
+    "trackName" : "Paraíso Que Me Cerca",
+    "msPlayed" : 12100
+  },
+  {
+    "endTime" : "2021-12-21 17:58",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 126490
+  },
+  {
+    "endTime" : "2021-12-21 18:01",
+    "artistName" : "N.I.N.A",
+    "trackName" : "A Bruta, a Braba, a Forte",
+    "msPlayed" : 11373
+  },
+  {
+    "endTime" : "2021-12-21 18:01",
+    "artistName" : "N.I.N.A",
+    "trackName" : "A Bruta, a Braba, a Forte",
+    "msPlayed" : 164586
+  },
+  {
+    "endTime" : "2021-12-21 18:24",
+    "artistName" : "N.I.N.A",
+    "trackName" : "Contramão",
+    "msPlayed" : 21860
+  },
+  {
+    "endTime" : "2021-12-21 18:27",
+    "artistName" : "Febem",
+    "trackName" : "MARCHA (feat. Vulgo FK)",
+    "msPlayed" : 167629
+  },
+  {
+    "endTime" : "2021-12-21 18:30",
+    "artistName" : "Febem",
+    "trackName" : "OG",
+    "msPlayed" : 141360
+  },
+  {
+    "endTime" : "2021-12-21 18:32",
+    "artistName" : "Febem",
+    "trackName" : "BOLT",
+    "msPlayed" : 174595
+  },
+  {
+    "endTime" : "2021-12-21 19:10",
+    "artistName" : "Febem",
+    "trackName" : "ME PAGA (feat. Djonga)",
+    "msPlayed" : 187144
+  },
+  {
+    "endTime" : "2021-12-21 19:12",
+    "artistName" : "Febem",
+    "trackName" : "JOVEM (feat. Smile)",
+    "msPlayed" : 141909
+  },
+  {
+    "endTime" : "2021-12-21 19:15",
+    "artistName" : "Febem",
+    "trackName" : "MÉXICO",
+    "msPlayed" : 165408
+  },
+  {
+    "endTime" : "2021-12-21 19:19",
+    "artistName" : "Febem",
+    "trackName" : "VAI PENSANDO",
+    "msPlayed" : 184138
+  },
+  {
+    "endTime" : "2021-12-21 19:21",
+    "artistName" : "Febem",
+    "trackName" : "SEM TEMPO (feat. Jean Tassy)",
+    "msPlayed" : 117482
+  },
+  {
+    "endTime" : "2021-12-21 19:26",
+    "artistName" : "Febem",
+    "trackName" : "CRIME",
+    "msPlayed" : 78795
+  },
+  {
+    "endTime" : "2021-12-21 19:29",
+    "artistName" : "Febem",
+    "trackName" : "ÁREA DE RISCO (feat. Tasha & Tracie)",
+    "msPlayed" : 4410
+  },
+  {
+    "endTime" : "2021-12-21 19:29",
+    "artistName" : "Febem",
+    "trackName" : "BALLA (feat. Kyan)",
+    "msPlayed" : 70970
+  },
+  {
+    "endTime" : "2021-12-21 19:29",
+    "artistName" : "Febem",
+    "trackName" : "BALLA (feat. Kyan)",
+    "msPlayed" : 4000
+  },
+  {
+    "endTime" : "2021-12-21 19:33",
+    "artistName" : "WC no Beat",
+    "trackName" : "Na Onda do Gin",
+    "msPlayed" : 264057
+  },
+  {
+    "endTime" : "2021-12-22 00:22",
+    "artistName" : "Kyan",
+    "trackName" : "The Box Medley 2",
+    "msPlayed" : 17082
+  },
+  {
+    "endTime" : "2021-12-22 00:25",
+    "artistName" : "Gloria Groove",
+    "trackName" : "YoYo",
+    "msPlayed" : 156521
+  },
+  {
+    "endTime" : "2021-12-22 00:43",
+    "artistName" : "Gloria Groove",
+    "trackName" : "YoYo",
+    "msPlayed" : 1690
+  },
+  {
+    "endTime" : "2021-12-22 03:10",
+    "artistName" : "Gloria Groove",
+    "trackName" : "YoYo",
+    "msPlayed" : 1250
+  },
+  {
+    "endTime" : "2021-12-22 12:40",
+    "artistName" : "Gloria Groove",
+    "trackName" : "YoYo",
+    "msPlayed" : 36090
+  },
+  {
+    "endTime" : "2021-12-22 13:04",
+    "artistName" : "Luísa Sonza",
+    "trackName" : "ANACONDA *o* ~~~",
+    "msPlayed" : 179540
+  },
+  {
+    "endTime" : "2021-12-22 13:04",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 5120
+  },
+  {
+    "endTime" : "2021-12-22 13:08",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218282
+  },
+  {
+    "endTime" : "2021-12-22 13:12",
+    "artistName" : "Djonga",
+    "trackName" : "Entre o Código da Espada e o Perfume da Rosa",
+    "msPlayed" : 128213
+  },
+  {
+    "endTime" : "2021-12-22 18:20",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 180324
+  },
+  {
+    "endTime" : "2021-12-22 18:27",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 390545
+  },
+  {
+    "endTime" : "2021-12-22 18:33",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 390545
+  },
+  {
+    "endTime" : "2021-12-22 18:40",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 390545
+  },
+  {
+    "endTime" : "2021-12-22 18:52",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 390545
+  },
+  {
+    "endTime" : "2021-12-22 18:59",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 390545
+  },
+  {
+    "endTime" : "2021-12-22 19:06",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 390545
+  },
+  {
+    "endTime" : "2021-12-22 19:35",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 262567
+  },
+  {
+    "endTime" : "2021-12-22 19:41",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 440
+  },
+  {
+    "endTime" : "2021-12-22 19:41",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 940
+  },
+  {
+    "endTime" : "2021-12-22 19:41",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 226190
+  },
+  {
+    "endTime" : "2021-12-22 19:51",
+    "artistName" : "MOB79",
+    "trackName" : "Atleta do Ano - Remix",
+    "msPlayed" : 3040
+  },
+  {
+    "endTime" : "2021-12-22 19:54",
+    "artistName" : "SD9",
+    "trackName" : "Kenner",
+    "msPlayed" : 179250
+  },
+  {
+    "endTime" : "2021-12-22 19:58",
+    "artistName" : "Febem",
+    "trackName" : "ESSE É MEU ESTILO (feat. Akira Presidente & BK)",
+    "msPlayed" : 249776
+  },
+  {
+    "endTime" : "2021-12-22 20:02",
+    "artistName" : "LEALL",
+    "trackName" : "Os Pitbull do Ano, Pt. 2",
+    "msPlayed" : 207976
+  },
+  {
+    "endTime" : "2021-12-22 20:02",
+    "artistName" : "Borges",
+    "trackName" : "Aonde Eu Sou Cria",
+    "msPlayed" : 3963
+  },
+  {
+    "endTime" : "2021-12-22 20:04",
+    "artistName" : "Yung Nobre",
+    "trackName" : "Gorila",
+    "msPlayed" : 115830
+  },
+  {
+    "endTime" : "2021-12-22 20:07",
+    "artistName" : "Major RD",
+    "trackName" : "60K",
+    "msPlayed" : 158797
+  },
+  {
+    "endTime" : "2021-12-22 20:11",
+    "artistName" : "Don L",
+    "trackName" : "auri sacra fames",
+    "msPlayed" : 267017
+  },
+  {
+    "endTime" : "2021-12-22 20:13",
+    "artistName" : "N.I.N.A",
+    "trackName" : "A Bruta, a Braba, a Forte",
+    "msPlayed" : 43322
+  },
+  {
+    "endTime" : "2021-12-23 17:21",
+    "artistName" : "VND",
+    "trackName" : "Bandidas Amam Mc Marcelly",
+    "msPlayed" : 185142
+  },
+  {
+    "endTime" : "2021-12-23 17:22",
+    "artistName" : "Yung Nobre",
+    "trackName" : "Gorila",
+    "msPlayed" : 27077
+  },
+  {
+    "endTime" : "2021-12-23 17:24",
+    "artistName" : "Kyan",
+    "trackName" : "Mandrake",
+    "msPlayed" : 112764
+  },
+  {
+    "endTime" : "2021-12-23 17:26",
+    "artistName" : "LEALL",
+    "trackName" : "Esculpido a Machado",
+    "msPlayed" : 105275
+  },
+  {
+    "endTime" : "2021-12-23 17:29",
+    "artistName" : "Major RD",
+    "trackName" : "60K",
+    "msPlayed" : 158797
+  },
+  {
+    "endTime" : "2021-12-23 19:29",
+    "artistName" : "Sant",
+    "trackName" : "Puxa o Gatilho Primeiro",
+    "msPlayed" : 112875
+  },
+  {
+    "endTime" : "2021-12-23 19:37",
+    "artistName" : "Febem",
+    "trackName" : "Raddim",
+    "msPlayed" : 396198
+  },
+  {
+    "endTime" : "2021-12-23 19:39",
+    "artistName" : "Yung Nobre",
+    "trackName" : "Nikeboyzsport",
+    "msPlayed" : 93371
+  },
+  {
+    "endTime" : "2021-12-23 19:41",
+    "artistName" : "L7NNON",
+    "trackName" : "Mais Que Isso",
+    "msPlayed" : 162271
+  },
+  {
+    "endTime" : "2021-12-23 19:42",
+    "artistName" : "TOKIODK",
+    "trackName" : "Armamento do Irã",
+    "msPlayed" : 4620
+  },
+  {
+    "endTime" : "2021-12-23 19:45",
+    "artistName" : "LEALL",
+    "trackName" : "Encomenda",
+    "msPlayed" : 157241
+  },
+  {
+    "endTime" : "2021-12-23 19:57",
+    "artistName" : "N.I.N.A",
+    "trackName" : "POSTURADA",
+    "msPlayed" : 184615
+  },
+  {
+    "endTime" : "2021-12-23 19:59",
+    "artistName" : "Febem",
+    "trackName" : "CHELSEA",
+    "msPlayed" : 150064
+  },
+  {
+    "endTime" : "2021-12-23 20:04",
+    "artistName" : "Fleezus",
+    "trackName" : "Eu Ainda",
+    "msPlayed" : 188229
+  },
+  {
+    "endTime" : "2021-12-23 20:09",
+    "artistName" : "slipmami",
+    "trackName" : "me dá dinheiro ou me faz gozar",
+    "msPlayed" : 232542
+  },
+  {
+    "endTime" : "2021-12-23 20:13",
+    "artistName" : "Kyan",
+    "trackName" : "Nós é Ruim e o Cabelo Ajuda",
+    "msPlayed" : 253411
+  },
+  {
+    "endTime" : "2021-12-23 20:17",
+    "artistName" : "LEALL",
+    "trackName" : "Profissão de Risco",
+    "msPlayed" : 192013
+  },
+  {
+    "endTime" : "2021-12-23 20:19",
+    "artistName" : "PoetaNoBeat",
+    "trackName" : "Nada Tão Tranquilo",
+    "msPlayed" : 135529
+  },
+  {
+    "endTime" : "2021-12-23 20:20",
+    "artistName" : "L7NNON",
+    "trackName" : "Hip Hop Rare",
+    "msPlayed" : 8960
+  },
+  {
+    "endTime" : "2021-12-23 20:20",
+    "artistName" : "DEGE",
+    "trackName" : "12",
+    "msPlayed" : 49464
+  },
+  {
+    "endTime" : "2021-12-23 20:20",
+    "artistName" : "Vinta",
+    "trackName" : "Só Balão",
+    "msPlayed" : 1840
+  },
+  {
+    "endTime" : "2021-12-23 20:22",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 121530
+  },
+  {
+    "endTime" : "2021-12-25 13:18",
+    "artistName" : "Tuyo",
+    "trackName" : "O Jeiro É Ir Embora",
+    "msPlayed" : 4693
+  },
+  {
+    "endTime" : "2021-12-25 13:19",
+    "artistName" : "Vulgo FK",
+    "trackName" : "Prada",
+    "msPlayed" : 1798
+  },
+  {
+    "endTime" : "2021-12-25 13:19",
+    "artistName" : "Borges",
+    "trackName" : "Contando Dinheiro",
+    "msPlayed" : 1536
+  },
+  {
+    "endTime" : "2021-12-25 13:19",
+    "artistName" : "Yunk Vino",
+    "trackName" : "Pretty Bitch",
+    "msPlayed" : 2402
+  },
+  {
+    "endTime" : "2021-12-25 13:19",
+    "artistName" : "Veigh",
+    "trackName" : "Foto do Corte",
+    "msPlayed" : 1864
+  },
+  {
+    "endTime" : "2021-12-25 13:19",
+    "artistName" : "Danzo",
+    "trackName" : "Artigo de Grife",
+    "msPlayed" : 3038
+  },
+  {
+    "endTime" : "2021-12-25 13:19",
+    "artistName" : "Veigh",
+    "trackName" : "Tipo Akon",
+    "msPlayed" : 864
+  },
+  {
+    "endTime" : "2021-12-25 13:31",
+    "artistName" : "Kyan",
+    "trackName" : "Nós é Ruim e o Cabelo Ajuda",
+    "msPlayed" : 74517
+  },
+  {
+    "endTime" : "2021-12-25 14:12",
+    "artistName" : "Gloria Groove",
+    "trackName" : "LEILÃO",
+    "msPlayed" : 117332
+  },
+  {
+    "endTime" : "2021-12-25 14:38",
+    "artistName" : "Gloria Groove",
+    "trackName" : "LEILÃO",
+    "msPlayed" : 18761
+  },
+  {
+    "endTime" : "2021-12-26 18:25",
+    "artistName" : "MC Nego da Marcone",
+    "trackName" : "Beat da Felicidade",
+    "msPlayed" : 239074
+  },
+  {
+    "endTime" : "2021-12-26 18:26",
+    "artistName" : "Sidoka",
+    "trackName" : "Louis V, Menina Linda",
+    "msPlayed" : 5264
+  },
+  {
+    "endTime" : "2021-12-27 13:23",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 225250
+  },
+  {
+    "endTime" : "2021-12-27 13:28",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Fura Bilionários",
+    "msPlayed" : 300000
+  },
+  {
+    "endTime" : "2021-12-27 13:30",
+    "artistName" : "slipmami",
+    "trackName" : "me dá dinheiro ou me faz gozar",
+    "msPlayed" : 120923
+  },
+  {
+    "endTime" : "2021-12-27 13:31",
+    "artistName" : "DEGE",
+    "trackName" : "12",
+    "msPlayed" : 55148
+  },
+  {
+    "endTime" : "2021-12-27 13:32",
+    "artistName" : "MD Chefe",
+    "trackName" : "Água de Bandido",
+    "msPlayed" : 44370
+  },
+  {
+    "endTime" : "2021-12-27 13:33",
+    "artistName" : "2T",
+    "trackName" : "1.5.7",
+    "msPlayed" : 89100
+  },
+  {
+    "endTime" : "2021-12-27 13:35",
+    "artistName" : "L7NNON",
+    "trackName" : "Hip Hop Rare",
+    "msPlayed" : 123802
+  },
+  {
+    "endTime" : "2021-12-27 13:39",
+    "artistName" : "Elicê",
+    "trackName" : "Yolo",
+    "msPlayed" : 141000
+  },
+  {
+    "endTime" : "2021-12-27 13:40",
+    "artistName" : "MV Bill",
+    "trackName" : "Cidadão Comum Refém",
+    "msPlayed" : 30545
+  },
+  {
+    "endTime" : "2021-12-27 20:50",
+    "artistName" : "MC Maneirinho",
+    "trackName" : "Debochando da Mídia",
+    "msPlayed" : 15260
+  },
+  {
+    "endTime" : "2021-12-28 17:17",
+    "artistName" : "MC Maneirinho",
+    "trackName" : "Debochando da Mídia",
+    "msPlayed" : 38330
+  },
+  {
+    "endTime" : "2021-12-28 17:18",
+    "artistName" : "DomLaike",
+    "trackName" : "Pente Ta Girando",
+    "msPlayed" : 56970
+  },
+  {
+    "endTime" : "2021-12-28 17:18",
+    "artistName" : "Vinta",
+    "trackName" : "Só Balão",
+    "msPlayed" : 3370
+  },
+  {
+    "endTime" : "2021-12-28 17:25",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 210980
+  },
+  {
+    "endTime" : "2021-12-28 17:25",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 630
+  },
+  {
+    "endTime" : "2021-12-28 17:25",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 1150
+  },
+  {
+    "endTime" : "2021-12-28 17:26",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 8180
+  },
+  {
+    "endTime" : "2021-12-28 17:28",
+    "artistName" : "Kyan",
+    "trackName" : "Nós é Ruim e o Cabelo Ajuda",
+    "msPlayed" : 155942
+  },
+  {
+    "endTime" : "2021-12-28 17:32",
+    "artistName" : "Fleezus",
+    "trackName" : "Track Suit Mafia (feat. Febem & PLK)",
+    "msPlayed" : 189070
+  },
+  {
+    "endTime" : "2021-12-28 17:35",
+    "artistName" : "Febem",
+    "trackName" : "CHELSEA",
+    "msPlayed" : 150064
+  },
+  {
+    "endTime" : "2021-12-28 17:38",
+    "artistName" : "Febem",
+    "trackName" : "Raddim",
+    "msPlayed" : 209738
+  },
+  {
+    "endTime" : "2021-12-28 17:40",
+    "artistName" : "Sant",
+    "trackName" : "Puxa o Gatilho Primeiro",
+    "msPlayed" : 91682
+  },
+  {
+    "endTime" : "2021-12-28 17:42",
+    "artistName" : "Kyan",
+    "trackName" : "Mandrake",
+    "msPlayed" : 112764
+  },
+  {
+    "endTime" : "2021-12-28 17:45",
+    "artistName" : "VND",
+    "trackName" : "Bandidas Amam Mc Marcelly",
+    "msPlayed" : 185142
+  },
+  {
+    "endTime" : "2021-12-28 17:48",
+    "artistName" : "Febre90s",
+    "trackName" : "No Piscar dos Olhos",
+    "msPlayed" : 159130
+  },
+  {
+    "endTime" : "2021-12-28 17:50",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 127511
+  },
+  {
+    "endTime" : "2021-12-28 19:00",
+    "artistName" : "Péricles",
+    "trackName" : "Até Que Durou",
+    "msPlayed" : 210330
+  },
+  {
+    "endTime" : "2021-12-28 19:03",
+    "artistName" : "BK",
+    "trackName" : "E Se Eu Morrer",
+    "msPlayed" : 164397
+  },
+  {
+    "endTime" : "2021-12-28 19:07",
+    "artistName" : "BK",
+    "trackName" : "Cidade do Pecado",
+    "msPlayed" : 211338
+  },
+  {
+    "endTime" : "2021-12-28 19:22",
+    "artistName" : "BK",
+    "trackName" : "Quadros",
+    "msPlayed" : 1312
+  },
+  {
+    "endTime" : "2021-12-28 19:22",
+    "artistName" : "BK",
+    "trackName" : "Não Preciso Que Você Duvide",
+    "msPlayed" : 2110
+  },
+  {
+    "endTime" : "2021-12-28 19:22",
+    "artistName" : "BK",
+    "trackName" : "Paraíso Que Me Cerca",
+    "msPlayed" : 770
+  },
+  {
+    "endTime" : "2021-12-28 19:26",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2021-12-28 19:30",
+    "artistName" : "FBC",
+    "trackName" : "$ENHOR",
+    "msPlayed" : 254350
+  },
+  {
+    "endTime" : "2021-12-28 19:33",
+    "artistName" : "Djonga",
+    "trackName" : "Irmãos de Arma, Irmãos de Luta",
+    "msPlayed" : 131669
+  },
+  {
+    "endTime" : "2021-12-28 19:35",
+    "artistName" : "FBC",
+    "trackName" : "SE EU NÃO TE CANTAR",
+    "msPlayed" : 158936
+  },
+  {
+    "endTime" : "2021-12-28 19:39",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-28 19:43",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-28 19:47",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-28 19:51",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-28 20:02",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 283218
+  },
+  {
+    "endTime" : "2021-12-28 20:30",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-28 20:34",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-28 20:39",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-29 03:11",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 236152
+  },
+  {
+    "endTime" : "2021-12-29 16:12",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 466340
+  },
+  {
+    "endTime" : "2021-12-29 16:16",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-29 16:20",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-29 18:07",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 379331
+  },
+  {
+    "endTime" : "2021-12-29 18:11",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-29 18:15",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-29 18:21",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-29 18:25",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-29 18:29",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-29 18:33",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-29 18:37",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 239659
+  },
+  {
+    "endTime" : "2021-12-29 18:39",
+    "artistName" : "Hot e Oreia",
+    "trackName" : "Pólen",
+    "msPlayed" : 105064
+  },
+  {
+    "endTime" : "2021-12-29 18:42",
+    "artistName" : "Fleezus",
+    "trackName" : "Track Suit Mafia (feat. Febem & PLK)",
+    "msPlayed" : 189070
+  },
+  {
+    "endTime" : "2021-12-29 18:45",
+    "artistName" : "Fleezus",
+    "trackName" : "Track Suit Mafia (feat. Febem & PLK)",
+    "msPlayed" : 189070
+  },
+  {
+    "endTime" : "2021-12-29 18:49",
+    "artistName" : "Fleezus",
+    "trackName" : "Track Suit Mafia (feat. Febem & PLK)",
+    "msPlayed" : 189070
+  },
+  {
+    "endTime" : "2021-12-29 18:52",
+    "artistName" : "Fleezus",
+    "trackName" : "Track Suit Mafia (feat. Febem & PLK)",
+    "msPlayed" : 189070
+  },
+  {
+    "endTime" : "2021-12-29 18:56",
+    "artistName" : "Fleezus",
+    "trackName" : "Track Suit Mafia (feat. Febem & PLK)",
+    "msPlayed" : 189070
+  },
+  {
+    "endTime" : "2021-12-29 19:57",
+    "artistName" : "Fleezus",
+    "trackName" : "Track Suit Mafia (feat. Febem & PLK)",
+    "msPlayed" : 56871
+  },
+  {
+    "endTime" : "2021-12-29 19:58",
+    "artistName" : "Fresno",
+    "trackName" : "O Arrocha Mais Triste do Mundo",
+    "msPlayed" : 10440
+  },
+  {
+    "endTime" : "2021-12-29 19:58",
+    "artistName" : "Febem",
+    "trackName" : "JOVEM (feat. Smile)",
+    "msPlayed" : 8360
+  },
+  {
+    "endTime" : "2021-12-29 20:00",
+    "artistName" : "Fresno",
+    "trackName" : "INV011: E VEJA SÓ (feat. Jup do Bairro)",
+    "msPlayed" : 119296
+  },
+  {
+    "endTime" : "2021-12-29 20:02",
+    "artistName" : "Fresno",
+    "trackName" : "INV011: E VEJA SÓ (feat. Jup do Bairro)",
+    "msPlayed" : 119296
+  },
+  {
+    "endTime" : "2021-12-29 20:04",
+    "artistName" : "Fresno",
+    "trackName" : "INV011: E VEJA SÓ (feat. Jup do Bairro)",
+    "msPlayed" : 119296
+  },
+  {
+    "endTime" : "2021-12-29 20:16",
+    "artistName" : "Fresno",
+    "trackName" : "INV011: E VEJA SÓ (feat. Jup do Bairro)",
+    "msPlayed" : 205667
+  },
+  {
+    "endTime" : "2021-12-29 23:09",
+    "artistName" : "Fresno",
+    "trackName" : "We'll Fight Together",
+    "msPlayed" : 142423
+  },
+  {
+    "endTime" : "2021-12-29 23:14",
+    "artistName" : "Fresno",
+    "trackName" : "Isso Não É Um Teste",
+    "msPlayed" : 82780
+  },
+  {
+    "endTime" : "2021-12-29 23:16",
+    "artistName" : "Kyan",
+    "trackName" : "Mandrake",
+    "msPlayed" : 96620
+  },
+  {
+    "endTime" : "2021-12-30 18:11",
+    "artistName" : "Kyan",
+    "trackName" : "Mandrake",
+    "msPlayed" : 194325
+  },
+  {
+    "endTime" : "2021-12-30 18:14",
+    "artistName" : "VND",
+    "trackName" : "Bandidas Amam Mc Marcelly",
+    "msPlayed" : 185142
+  },
+  {
+    "endTime" : "2021-12-30 18:17",
+    "artistName" : "Febre90s",
+    "trackName" : "No Piscar dos Olhos",
+    "msPlayed" : 159130
+  },
+  {
+    "endTime" : "2021-12-30 18:20",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 127511
+  },
+  {
+    "endTime" : "2021-12-30 20:00",
+    "artistName" : "Péricles",
+    "trackName" : "Até Que Durou",
+    "msPlayed" : 87847
+  },
+  {
+    "endTime" : "2021-12-30 20:05",
+    "artistName" : "Costa Gold",
+    "trackName" : "N.A.D.A.B.O.M Pt 3",
+    "msPlayed" : 234240
+  },
+  {
+    "endTime" : "2021-12-30 20:07",
+    "artistName" : "Costa Gold",
+    "trackName" : "Nada Bom",
+    "msPlayed" : 96040
+  },
+  {
+    "endTime" : "2022-01-03 09:14",
+    "artistName" : "Costa Gold",
+    "trackName" : "Nada Bom",
+    "msPlayed" : 7920
+  },
+  {
+    "endTime" : "2022-01-03 09:17",
+    "artistName" : "Costa Gold",
+    "trackName" : "N.A.D.A.B.O.M Pt 3",
+    "msPlayed" : 234240
+  },
+  {
+    "endTime" : "2022-01-03 09:56",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Sem Colete",
+    "msPlayed" : 165440
+  },
+  {
+    "endTime" : "2022-01-03 09:58",
+    "artistName" : "Costa Gold",
+    "trackName" : "Nada Bom",
+    "msPlayed" : 168733
+  },
+  {
+    "endTime" : "2022-01-03 10:10",
+    "artistName" : "WIU",
+    "trackName" : "Lágrimas de Crocodilo",
+    "msPlayed" : 1030
+  },
+  {
+    "endTime" : "2022-01-03 10:10",
+    "artistName" : "FBC",
+    "trackName" : "De Kenner",
+    "msPlayed" : 60606
+  },
+  {
+    "endTime" : "2022-01-03 10:10",
+    "artistName" : "DJ Matt D",
+    "trackName" : "Pandora",
+    "msPlayed" : 1860
+  },
+  {
+    "endTime" : "2022-01-03 10:10",
+    "artistName" : "Akira Presidente",
+    "trackName" : "Nipsey do Azul",
+    "msPlayed" : 750
+  },
+  {
+    "endTime" : "2022-01-03 10:10",
+    "artistName" : "FBC",
+    "trackName" : "SE EU NÃO TE CANTAR",
+    "msPlayed" : 2050
+  },
+  {
+    "endTime" : "2022-01-03 10:10",
+    "artistName" : "Costa Gold",
+    "trackName" : "A Praia",
+    "msPlayed" : 1040
+  },
+  {
+    "endTime" : "2022-01-03 10:13",
+    "artistName" : "Sain",
+    "trackName" : "Iori Incorporado",
+    "msPlayed" : 166057
+  },
+  {
+    "endTime" : "2022-01-03 10:14",
+    "artistName" : "Japa",
+    "trackName" : "Osaka",
+    "msPlayed" : 63892
+  },
+  {
+    "endTime" : "2022-01-03 10:17",
+    "artistName" : "Nill",
+    "trackName" : "Control",
+    "msPlayed" : 208109
+  },
+  {
+    "endTime" : "2022-01-03 10:54",
+    "artistName" : "Costa Gold",
+    "trackName" : "155",
+    "msPlayed" : 130399
+  },
+  {
+    "endTime" : "2022-01-03 10:58",
+    "artistName" : "Recayd Mob",
+    "trackName" : "Eu Só Deslizo (feat. Jé Santiago & MC Igu)",
+    "msPlayed" : 240027
+  },
+  {
+    "endTime" : "2022-01-03 11:01",
+    "artistName" : "Criolo",
+    "trackName" : "Cleane",
+    "msPlayed" : 192000
+  },
+  {
+    "endTime" : "2022-01-03 11:04",
+    "artistName" : "FBC",
+    "trackName" : "Auto Ajuda",
+    "msPlayed" : 170649
+  },
+  {
+    "endTime" : "2022-01-03 11:06",
+    "artistName" : "Dfideliz",
+    "trackName" : "Baila Baby",
+    "msPlayed" : 121162
+  },
+  {
+    "endTime" : "2022-01-03 11:11",
+    "artistName" : "Costa Gold",
+    "trackName" : "Se Essa Bunda",
+    "msPlayed" : 249125
+  },
+  {
+    "endTime" : "2022-01-03 11:15",
+    "artistName" : "Dalsin",
+    "trackName" : "Parabellum",
+    "msPlayed" : 248506
+  },
+  {
+    "endTime" : "2022-01-03 11:18",
+    "artistName" : "Sid",
+    "trackName" : "Brasil De Quem? 5",
+    "msPlayed" : 15573
+  },
+  {
+    "endTime" : "2022-01-03 11:18",
+    "artistName" : "KayBlack",
+    "trackName" : "Vivências",
+    "msPlayed" : 167115
+  },
+  {
+    "endTime" : "2022-01-03 11:20",
+    "artistName" : "BTS",
+    "trackName" : "Butter",
+    "msPlayed" : 101220
+  },
+  {
+    "endTime" : "2022-01-03 16:58",
+    "artistName" : "Travis Scott",
+    "trackName" : "BUTTERFLY EFFECT",
+    "msPlayed" : 125540
+  },
+  {
+    "endTime" : "2022-01-03 17:18",
+    "artistName" : "Måneskin",
+    "trackName" : "I WANNA BE YOUR SLAVE",
+    "msPlayed" : 50730
+  },
+  {
+    "endTime" : "2022-01-03 17:25",
+    "artistName" : "Billie Eilish",
+    "trackName" : "Happier Than Ever",
+    "msPlayed" : 298899
+  },
+  {
+    "endTime" : "2022-01-03 17:28",
+    "artistName" : "Billie Eilish",
+    "trackName" : "bitches broken hearts",
+    "msPlayed" : 176471
+  },
+  {
+    "endTime" : "2022-01-03 17:34",
+    "artistName" : "Billie Eilish",
+    "trackName" : "Happier Than Ever",
+    "msPlayed" : 298899
+  },
+  {
+    "endTime" : "2022-01-03 17:35",
+    "artistName" : "Billie Eilish",
+    "trackName" : "Bored",
+    "msPlayed" : 31940
+  },
+  {
+    "endTime" : "2022-01-03 19:23",
+    "artistName" : "Billie Eilish",
+    "trackName" : "Happier Than Ever",
+    "msPlayed" : 185160
+  },
+  {
+    "endTime" : "2022-01-03 19:27",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2022-01-03 19:31",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2022-01-03 19:35",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2022-01-03 20:09",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 543848
+  },
+  {
+    "endTime" : "2022-01-03 20:10",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 56269
+  },
+  {
+    "endTime" : "2022-01-04 17:52",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 187895
+  },
+  {
+    "endTime" : "2022-01-04 17:56",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2022-01-04 18:00",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 244170
+  },
+  {
+    "endTime" : "2022-01-05 01:48",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 105683
+  },
+  {
+    "endTime" : "2022-01-06 17:50",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 23260
+  },
+  {
+    "endTime" : "2022-01-07 11:56",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2022-01-07 12:03",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 279282
+  },
+  {
+    "endTime" : "2022-01-07 12:06",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2022-01-07 12:11",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 297350
+  },
+  {
+    "endTime" : "2022-01-07 13:27",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2022-01-07 13:30",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2022-01-07 13:33",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2022-01-07 13:39",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2022-01-07 13:42",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2022-01-07 13:45",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2022-01-07 14:07",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2022-01-07 14:10",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2022-01-07 22:51",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 315890
+  },
+  {
+    "endTime" : "2022-01-07 23:17",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 21330
+  },
+  {
+    "endTime" : "2022-01-08 17:55",
+    "artistName" : "L7NNON",
+    "trackName" : "Freio da Blazer",
+    "msPlayed" : 10290
+  },
+  {
+    "endTime" : "2022-01-08 17:59",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 199921
+  },
+  {
+    "endTime" : "2022-01-08 18:52",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2022-01-08 18:54",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 127511
+  },
+  {
+    "endTime" : "2022-01-08 18:58",
+    "artistName" : "FBC",
+    "trackName" : "Melô do Vacilão",
+    "msPlayed" : 197721
+  },
+  {
+    "endTime" : "2022-01-08 19:00",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 115859
+  },
+  {
+    "endTime" : "2022-01-08 19:02",
+    "artistName" : "FBC",
+    "trackName" : "Eu Sou o Crime",
+    "msPlayed" : 143038
+  },
+  {
+    "endTime" : "2022-01-08 19:06",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 162523
+  },
+  {
+    "endTime" : "2022-01-08 19:09",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 194644
+  },
+  {
+    "endTime" : "2022-01-08 19:11",
+    "artistName" : "FBC",
+    "trackName" : "Polícia Covarde",
+    "msPlayed" : 150751
+  },
+  {
+    "endTime" : "2022-01-08 19:14",
+    "artistName" : "FBC",
+    "trackName" : "De Kenner",
+    "msPlayed" : 152209
+  },
+  {
+    "endTime" : "2022-01-08 19:18",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 199921
+  },
+  {
+    "endTime" : "2022-01-08 19:21",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2022-01-08 19:23",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 127511
+  },
+  {
+    "endTime" : "2022-01-08 19:26",
+    "artistName" : "FBC",
+    "trackName" : "Melô do Vacilão",
+    "msPlayed" : 197721
+  },
+  {
+    "endTime" : "2022-01-08 19:29",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 115859
+  },
+  {
+    "endTime" : "2022-01-08 19:32",
+    "artistName" : "FBC",
+    "trackName" : "Eu Sou o Crime",
+    "msPlayed" : 144199
+  },
+  {
+    "endTime" : "2022-01-08 19:35",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 162523
+  },
+  {
+    "endTime" : "2022-01-08 19:38",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 194644
+  },
+  {
+    "endTime" : "2022-01-08 19:40",
+    "artistName" : "FBC",
+    "trackName" : "Polícia Covarde",
+    "msPlayed" : 149556
+  },
+  {
+    "endTime" : "2022-01-08 19:44",
+    "artistName" : "FBC",
+    "trackName" : "De Kenner",
+    "msPlayed" : 152209
+  },
+  {
+    "endTime" : "2022-01-08 19:47",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 199921
+  },
+  {
+    "endTime" : "2022-01-08 19:50",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2022-01-08 19:52",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 126322
+  },
+  {
+    "endTime" : "2022-01-08 19:56",
+    "artistName" : "FBC",
+    "trackName" : "Melô do Vacilão",
+    "msPlayed" : 197721
+  },
+  {
+    "endTime" : "2022-01-08 19:58",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 115859
+  },
+  {
+    "endTime" : "2022-01-08 20:00",
+    "artistName" : "FBC",
+    "trackName" : "Eu Sou o Crime",
+    "msPlayed" : 144199
+  },
+  {
+    "endTime" : "2022-01-08 20:03",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 162523
+  },
+  {
+    "endTime" : "2022-01-08 20:06",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 193488
+  },
+  {
+    "endTime" : "2022-01-08 20:10",
+    "artistName" : "FBC",
+    "trackName" : "Polícia Covarde",
+    "msPlayed" : 150751
+  },
+  {
+    "endTime" : "2022-01-08 20:12",
+    "artistName" : "FBC",
+    "trackName" : "De Kenner",
+    "msPlayed" : 152209
+  },
+  {
+    "endTime" : "2022-01-08 20:15",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 199921
+  },
+  {
+    "endTime" : "2022-01-08 20:18",
+    "artistName" : "FBC",
+    "trackName" : "Quando o DJ Toca",
+    "msPlayed" : 182599
+  },
+  {
+    "endTime" : "2022-01-08 20:21",
+    "artistName" : "FBC",
+    "trackName" : "Rap da UFFÉ",
+    "msPlayed" : 126360
+  },
+  {
+    "endTime" : "2022-01-08 20:24",
+    "artistName" : "FBC",
+    "trackName" : "Melô do Vacilão",
+    "msPlayed" : 197721
+  },
+  {
+    "endTime" : "2022-01-08 20:26",
+    "artistName" : "FBC",
+    "trackName" : "Se Tá Solteira",
+    "msPlayed" : 115859
+  },
+  {
+    "endTime" : "2022-01-08 20:28",
+    "artistName" : "FBC",
+    "trackName" : "Eu Sou o Crime",
+    "msPlayed" : 144199
+  },
+  {
+    "endTime" : "2022-01-08 20:31",
+    "artistName" : "FBC",
+    "trackName" : "Delírios",
+    "msPlayed" : 162523
+  },
+  {
+    "endTime" : "2022-01-08 20:34",
+    "artistName" : "FBC",
+    "trackName" : "Não dá pra Explicar",
+    "msPlayed" : 194644
+  },
+  {
+    "endTime" : "2022-01-08 20:37",
+    "artistName" : "FBC",
+    "trackName" : "Polícia Covarde",
+    "msPlayed" : 150751
+  },
+  {
+    "endTime" : "2022-01-08 20:40",
+    "artistName" : "FBC",
+    "trackName" : "De Kenner",
+    "msPlayed" : 152209
+  },
+  {
+    "endTime" : "2022-01-08 20:41",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 30175
+  },
+  {
+    "endTime" : "2022-01-09 04:39",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 39270
+  },
+  {
+    "endTime" : "2022-01-09 12:41",
+    "artistName" : "FBC",
+    "trackName" : "Vem pro Baile",
+    "msPlayed" : 85550
+  },
+  {
+    "endTime" : "2022-01-09 12:43",
+    "artistName" : "BK",
+    "trackName" : "Último Baile Antes da Guerra",
+    "msPlayed" : 124050
+  },
+  {
+    "endTime" : "2022-01-10 11:57",
+    "artistName" : "The Weeknd",
+    "trackName" : "Blinding Lights",
+    "msPlayed" : 10040
+  },
+  {
+    "endTime" : "2022-01-10 11:59",
+    "artistName" : "The Weeknd",
+    "trackName" : "Dawn FM",
+    "msPlayed" : 96240
+  },
+  {
+    "endTime" : "2022-01-10 12:03",
+    "artistName" : "The Weeknd",
+    "trackName" : "Gasoline",
+    "msPlayed" : 212165
+  },
+  {
+    "endTime" : "2022-01-10 12:07",
+    "artistName" : "The Weeknd",
+    "trackName" : "How Do I Make You Love Me?",
+    "msPlayed" : 214214
+  },
+  {
+    "endTime" : "2022-01-10 12:11",
+    "artistName" : "The Weeknd",
+    "trackName" : "Take My Breath",
+    "msPlayed" : 242348
+  },
+  {
+    "endTime" : "2022-01-10 12:14",
+    "artistName" : "The Weeknd",
+    "trackName" : "Sacrifice",
+    "msPlayed" : 188918
+  },
+  {
+    "endTime" : "2022-01-10 12:17",
+    "artistName" : "The Weeknd",
+    "trackName" : "Sacrifice",
+    "msPlayed" : 188918
+  },
+  {
+    "endTime" : "2022-01-10 12:20",
+    "artistName" : "The Weeknd",
+    "trackName" : "Sacrifice",
+    "msPlayed" : 188918
+  },
+  {
+    "endTime" : "2022-01-10 12:24",
+    "artistName" : "The Weeknd",
+    "trackName" : "Sacrifice",
+    "msPlayed" : 188918
+  },
+  {
+    "endTime" : "2022-01-10 19:37",
+    "artistName" : "The Weeknd",
+    "trackName" : "Sacrifice",
+    "msPlayed" : 169716
+  },
+  {
+    "endTime" : "2022-01-12 01:58",
+    "artistName" : "The Weeknd",
+    "trackName" : "Sacrifice",
+    "msPlayed" : 2640
+  }
+]
